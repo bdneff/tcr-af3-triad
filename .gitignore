@@ -1,0 +1,59 @@
+# ---------------------------------------------------------------------------
+# Code lives in git; bulk data and run outputs live on the cluster.
+# Anything ignored here is either (a) regenerable, (b) third-party, or (c) too
+# large for git -- and every one of them is located through configs/paths.py.
+# See docs/PROVENANCE.md for where each ignored artifact actually lives.
+# ---------------------------------------------------------------------------
+
+# --- the staging tarball pulled off gemini (28.2 GB uncompressed) ----------
+tcr_project_to_organize.tar.gz
+_incoming/
+
+# --- third-party / regenerable archives ------------------------------------
+# tcrtrifold-experiments-main.zip is the AF3+Boltz Nextflow pipeline
+# (github.com/AltinLab/tcrtrifold-experiments) -- clone it, don't vendor it.
+archives/
+*.zip
+*.tar.gz
+
+# --- databases (regenerable from IEDB; 13.5 GB on the cluster, 90 MB local) -
+*.db
+*.sqlite
+*.sqlite3
+
+# --- AlphaFold / TCRdock weights and environments ---------------------------
+alphafold_params/
+env/
+params/
+*.npz
+*.pkl
+
+# --- prediction + simulation outputs ---------------------------------------
+runs/
+runs_classII/
+chunks/
+chunks_classII/
+logs/
+logs_classII/
+*.log
+
+# --- python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+
+# --- os / editor -----------------------------------------------------------
+.DS_Store
+*.swp
+
+# --- LaTeX build artifacts (main.pdf IS tracked: it is the living log) ------
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+
+classII_summary_for_review.tex

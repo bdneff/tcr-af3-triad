@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this archived release."
+title: "Code and data for: General prediction of T cell receptor antigen specificity from sequence using AlphaFold 3"
+type: software
+version: "1.0"
+license: MIT
+doi: 10.5281/zenodo.22967485
+repository-code: "https://github.com/bdneff/tcr-af3-triad"
+authors:
+  - given-names: Lawson J.
+    family-names: Woods
+  - given-names: Brandon
+    family-names: Neff
+    orcid: "https://orcid.org/0009-0000-9856-3423"
+    affiliation: "Translational Genomics Research Institute (TGen)"
+  - given-names: Kamel
+    family-names: Lahouel
+  - given-names: Antoine
+    family-names: Goursaud
+  - given-names: Mete
+    family-names: Mulazimoglu
+  - given-names: Kameron
+    family-names: Bates
+  - given-names: Cristian
+    family-names: Tomasetti
+  - given-names: John A.
+    family-names: Altin
+keywords:
+  - AlphaFold 3
+  - T cell receptor
+  - TCR specificity
+  - pMHC
+  - structure prediction
+preferred-citation:
+  type: article
+  title: "General prediction of T cell receptor antigen specificity from sequence using AlphaFold 3"
+  journal: "Science Advances"
+  year: 2026
+  authors:
+    - given-names: Lawson J.
+      family-names: Woods
+    - given-names: Brandon
+      family-names: Neff
+    - given-names: Kamel
+      family-names: Lahouel
+    - given-names: Antoine
+      family-names: Goursaud
+    - given-names: Mete
+      family-names: Mulazimoglu
+    - given-names: Kameron
+      family-names: Bates
+    - given-names: Cristian
+      family-names: Tomasetti
+    - given-names: John A.
+      family-names: Altin

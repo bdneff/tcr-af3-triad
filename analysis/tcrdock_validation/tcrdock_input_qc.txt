@@ -1,0 +1,1 @@
+All 197 triads parsed cleanly; no QC issues.

@@ -1,0 +1,5 @@
+figure,comparison,mhc_class,orientation,n,AF3_median_AUC,AF3_min_AUC,AF3_max_AUC,TCRdock_median_AUC,TCRdock_min_AUC,TCRdock_max_AUC,AF3_wins,TCRdock_wins,ties,paired_wilcoxon_stat,paired_wilcoxon_p
+Fig4_panelC,AF3_PTI-PAE_vs_AF-TCRdock,I,antigen-centric,12,0.944,0.556,1.0,0.59,0.25,1.0,9,1,2,2.0,0.00586
+Fig4_panelC,AF3_PTI-PAE_vs_AF-TCRdock,I,TCR-centric,12,0.944,0.556,1.0,0.59,0.25,1.0,9,1,2,2.0,0.00586
+Fig4_panelC,AF3_PTI-PAE_vs_AF-TCRdock,II,antigen-centric,8,0.81,0.714,0.907,0.592,0.287,0.784,8,0,0,0.0,0.00781
+Fig4_panelC,AF3_PTI-PAE_vs_AF-TCRdock,II,TCR-centric,205,0.937,0.028,1.0,0.703,0.0,1.0,150,54,1,5689.5,1.65e-08

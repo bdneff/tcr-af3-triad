@@ -1,0 +1,2860 @@
+[33mNextflow 26.04.2 is available - Please consider updating your version to it(B[m
+
+ N E X T F L O W   ~  version 25.04.8
+
+Launching `./workflows/pdb.nf` [happy_salas] DSL2 - revision: d6e95c8bfb
+
+WARN: WORKFLOW OUTPUT DEFINITION IS A PREVIEW FEATURE - SYNTAX AND FUNCTIONALITY CAN CHANGE IN FUTURE RELEASES
+[-        ] CLEAN_PDB        -
+[-        ] FORMAT_TRUE_PDBS -
+
+[-        ] CLEAN_PDB                      -
+[-        ] FORMAT_TRUE_PDBS               -
+[-        ] MSA…_PARQUET:SEQ_LIST_TO_FASTA -
+[-        ] MSA…A_WORKFLOW:FILT_FORMAT_MSA -
+[-        ] MSA…RQUET:MSA_WORKFLOW:RUN_MSA -
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[-        ] BOL…_PARQUET:SEQ_LIST_TO_FASTA -
+[-        ] BOL…RIAD_PARQUET:FASTA_TO_YAML -
+[-        ] BOL…AD_PARQUET:BOLTZ_INFERENCE -
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[-        ] TCRDOCK_GEOM_FROM_PDB          -
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+Plus 1 more processes waiting for tasks…
+
+[-        ] CLEAN_PDB                      -
+[-        ] FORMAT_TRUE_PDBS               -
+[-        ] MSA…_PARQUET:SEQ_LIST_TO_FASTA -
+[-        ] MSA…A_WORKFLOW:FILT_FORMAT_MSA -
+[-        ] MSA…RQUET:MSA_WORKFLOW:RUN_MSA -
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[-        ] BOL…_PARQUET:SEQ_LIST_TO_FASTA -
+[-        ] BOL…RIAD_PARQUET:FASTA_TO_YAML -
+[-        ] BOL…AD_PARQUET:BOLTZ_INFERENCE -
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[-        ] TCRDOCK_GEOM_FROM_PDB          -
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+Plus 21 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[-        ] FORMAT_TRUE_PDBS               -
+[-        ] MSA…_PARQUET:SEQ_LIST_TO_FASTA -
+[-        ] MSA…A_WORKFLOW:FILT_FORMAT_MSA -
+[-        ] MSA…RQUET:MSA_WORKFLOW:RUN_MSA -
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[-        ] BOL…_PARQUET:SEQ_LIST_TO_FASTA -
+[-        ] BOL…RIAD_PARQUET:FASTA_TO_YAML -
+[-        ] BOL…AD_PARQUET:BOLTZ_INFERENCE -
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[-        ] TCRDOCK_GEOM_FROM_PDB          -
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+Plus 20 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[-        ] MSA…_PARQUET:SEQ_LIST_TO_FASTA -
+[-        ] MSA…A_WORKFLOW:FILT_FORMAT_MSA -
+[-        ] MSA…RQUET:MSA_WORKFLOW:RUN_MSA -
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[-        ] BOL…_PARQUET:SEQ_LIST_TO_FASTA -
+[-        ] BOL…RIAD_PARQUET:FASTA_TO_YAML -
+[-        ] BOL…AD_PARQUET:BOLTZ_INFERENCE -
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[-        ] TCRDOCK_GEOM_FROM_PDB          -
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+Plus 14 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[-        ] MSA…_PARQUET:SEQ_LIST_TO_FASTA -
+[-        ] MSA…A_WORKFLOW:FILT_FORMAT_MSA -
+[-        ] MSA…RQUET:MSA_WORKFLOW:RUN_MSA -
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[-        ] BOL…_PARQUET:SEQ_LIST_TO_FASTA -
+[-        ] BOL…RIAD_PARQUET:FASTA_TO_YAML -
+[-        ] BOL…AD_PARQUET:BOLTZ_INFERENCE -
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[-        ] TCRDOCK_GEOM_FROM_PDB          -
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[-        ] MSA…_PARQUET:SEQ_LIST_TO_FASTA -
+[-        ] MSA…A_WORKFLOW:FILT_FORMAT_MSA -
+[-        ] MSA…RQUET:MSA_WORKFLOW:RUN_MSA -
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[-        ] BOL…_PARQUET:SEQ_LIST_TO_FASTA -
+[-        ] BOL…RIAD_PARQUET:FASTA_TO_YAML -
+[-        ] BOL…AD_PARQUET:BOLTZ_INFERENCE -
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[5d/85f6c4] MSA…QUET:SEQ_LIST_TO_FASTA (5) | 5 of 5, cached: 5
+[-        ] MSA…A_WORKFLOW:FILT_FORMAT_MSA -
+[-        ] MSA…RQUET:MSA_WORKFLOW:RUN_MSA -
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[0d/ba2b60] BOL…UET:SEQ_LIST_TO_FASTA (14) | 14 of 14, cached: 14
+[-        ] BOL…RIAD_PARQUET:FASTA_TO_YAML -
+[-        ] BOL…AD_PARQUET:BOLTZ_INFERENCE -
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[aa/0e7334] MSA…UET:SEQ_LIST_TO_FASTA (27) | 26 of 26, cached: 26
+[23/bf1ca6] MSA…a950ce14fef85fece8363a512) | 4 of 4, cached: 4
+[-        ] MSA…RQUET:MSA_WORKFLOW:RUN_MSA -
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[7f/17308b] BOL…UET:SEQ_LIST_TO_FASTA (43) | 43 of 43, cached: 43
+[b6/0e2474] BOL…_PARQUET:FASTA_TO_YAML (1) | 4 of 4, cached: 4
+[-        ] BOL…AD_PARQUET:BOLTZ_INFERENCE -
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[05/5091b1] MSA…UET:SEQ_LIST_TO_FASTA (53) | 52 of 52, cached: 52
+[23/bf1ca6] MSA…a950ce14fef85fece8363a512) | 4 of 4, cached: 4
+[-        ] MSA…RQUET:MSA_WORKFLOW:RUN_MSA -
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[60/c07378] BOL…UET:SEQ_LIST_TO_FASTA (64) | 64 of 64, cached: 64
+[b6/0e2474] BOL…_PARQUET:FASTA_TO_YAML (1) | 4 of 4, cached: 4
+[-        ] BOL…AD_PARQUET:BOLTZ_INFERENCE -
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[3c/592ed8] MSA…UET:SEQ_LIST_TO_FASTA (63) | 63 of 63, cached: 63
+[ac/026948] MSA…b1ff0d40860c0ea01f241e3a7) | 14 of 14, cached: 14
+[-        ] MSA…RQUET:MSA_WORKFLOW:RUN_MSA -
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[65/71176d] BOL…UET:SEQ_LIST_TO_FASTA (78) | 76 of 76, cached: 76
+[09/e46416] BOL…PARQUET:FASTA_TO_YAML (14) | 13 of 13, cached: 13
+[-        ] BOL…AD_PARQUET:BOLTZ_INFERENCE -
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[67/ccbedd] MSA…UET:SEQ_LIST_TO_FASTA (86) | 85 of 85, cached: 85
+[79/0a12eb] MSA…1ec9c9f5dda8545662156e955) | 30 of 30, cached: 30
+[-        ] MSA…RQUET:MSA_WORKFLOW:RUN_MSA -
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[5e/6ca38c] BOL…UET:SEQ_LIST_TO_FASTA (92) | 94 of 94, cached: 94
+[ee/141668] BOL…PARQUET:FASTA_TO_YAML (26) | 29 of 29, cached: 29
+[56/ed9952] BOL…ARQUET:BOLTZ_INFERENCE (3) | 1 of 1, cached: 1
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[91/7008e0] MSA…ET:SEQ_LIST_TO_FASTA (100) | 99 of 99, cached: 99
+[71/c1dfd5] MSA…46ae11a462749a73d58148260) | 44 of 44, cached: 44
+[skipped  ] MSA…d4d69eea64ab1d73af997a75c) | 2 of 2, stored: 2
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[34/a9e34f] BOL…ET:SEQ_LIST_TO_FASTA (115) | 115 of 115, cached: 115
+[ec/ff525f] BOL…PARQUET:FASTA_TO_YAML (40) | 40 of 40, cached: 40
+[c6/4604c3] BOL…ARQUET:BOLTZ_INFERENCE (6) | 6 of 6, cached: 6
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[94/af82ad] MSA…ET:SEQ_LIST_TO_FASTA (113) | 115 of 115, cached: 115
+[7f/a29701] MSA…64e48e7d5d3362504ac86ada5) | 57 of 57, cached: 57
+[skipped  ] MSA…9f28ae1ce1d37d34e16db1e93) | 4 of 4, stored: 4
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[9a/126e6b] BOL…ET:SEQ_LIST_TO_FASTA (135) | 133 of 133, cached: 133
+[56/9e14e6] BOL…PARQUET:FASTA_TO_YAML (52) | 53 of 53, cached: 53
+[f9/a40d9c] BOL…RQUET:BOLTZ_INFERENCE (16) | 18 of 18, cached: 18
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[dd/0849d3] MSA…ET:SEQ_LIST_TO_FASTA (130) | 132 of 132, cached: 132
+[4c/6ce9a8] MSA…247e101e3e4cd5751a1face5b) | 65 of 65, cached: 65
+[skipped  ] MSA…9f28ae1ce1d37d34e16db1e93) | 4 of 4, stored: 4
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[ae/0a0298] BOL…ET:SEQ_LIST_TO_FASTA (148) | 150 of 150, cached: 150
+[26/542625] BOL…PARQUET:FASTA_TO_YAML (64) | 66 of 66, cached: 66
+[a4/00f364] BOL…RQUET:BOLTZ_INFERENCE (29) | 27 of 27, cached: 27
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[6d/462c20] MSA…ET:SEQ_LIST_TO_FASTA (138) | 140 of 140, cached: 140
+[aa/7939e1] MSA…56acf6ed6dfc0e2b24c724e1f) | 73 of 73, cached: 73
+[skipped  ] MSA…9f28ae1ce1d37d34e16db1e93) | 4 of 4, stored: 4
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[c4/d2de0d] BOL…ET:SEQ_LIST_TO_FASTA (157) | 160 of 160, cached: 160
+[3e/223c10] BOL…PARQUET:FASTA_TO_YAML (74) | 74 of 74, cached: 74
+[15/9a852b] BOL…RQUET:BOLTZ_INFERENCE (30) | 30 of 30, cached: 30
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[26/9f8548] MSA…ET:SEQ_LIST_TO_FASTA (161) | 161 of 161, cached: 161
+[c4/77aac4] MSA…b17c5b5d499ab01c95664c5d9) | 87 of 87, cached: 87
+[skipped  ] MSA…9f28ae1ce1d37d34e16db1e93) | 4 of 4, stored: 4
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[19/184519] BOL…ET:SEQ_LIST_TO_FASTA (178) | 178 of 178, cached: 178
+[0a/cbca18] BOL…PARQUET:FASTA_TO_YAML (85) | 86 of 86, cached: 86
+[19/4015cb] BOL…RQUET:BOLTZ_INFERENCE (35) | 35 of 35, cached: 35
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[18/7b3fb3] MSA…ET:SEQ_LIST_TO_FASTA (178) | 180 of 180, cached: 180
+[2d/cb2924] MSA…efb6f8b3de2d5de89affadb18) | 97 of 97, cached: 97
+[skipped  ] MSA…0cbdf6d6de37de1c38f75b7e8) | 6 of 6, stored: 6
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[e1/4e1d5f] BOL…ET:SEQ_LIST_TO_FASTA (194) | 195 of 195, cached: 195
+[99/b759e2] BOL…ARQUET:FASTA_TO_YAML (106) | 103 of 103, cached: 103
+[99/e28e56] BOL…RQUET:BOLTZ_INFERENCE (41) | 41 of 41, cached: 41
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[f0/326fff] MSA…ET:SEQ_LIST_TO_FASTA (202) | 199 of 199, cached: 199
+[fa/67fe13] MSA…14fe54cdbb9d0f4f73bb7673b) | 112 of 112, cached: 112
+[skipped  ] MSA…761b631873991c2a624d8de43) | 7 of 7, stored: 7
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[f5/99b9fe] BOL…ET:SEQ_LIST_TO_FASTA (213) | 214 of 214, cached: 214
+[aa/77268f] BOL…ARQUET:FASTA_TO_YAML (116) | 116 of 116, cached: 116
+[fb/de0ec1] BOL…RQUET:BOLTZ_INFERENCE (49) | 48 of 48, cached: 48
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[61/eafcd5] MSA…ET:SEQ_LIST_TO_FASTA (217) | 216 of 216, cached: 216
+[15/8a0393] MSA…6479c4aaf19d6f76ffd5d4bbe) | 131 of 131, cached: 131
+[skipped  ] MSA…761b631873991c2a624d8de43) | 7 of 7, stored: 7
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[27/2c2a43] BOL…ET:SEQ_LIST_TO_FASTA (228) | 227 of 227, cached: 227
+[df/b7fc08] BOL…ARQUET:FASTA_TO_YAML (132) | 132 of 132, cached: 132
+[e3/a1e294] BOL…RQUET:BOLTZ_INFERENCE (58) | 57 of 57, cached: 57
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[e0/2a13e5] MSA…ET:SEQ_LIST_TO_FASTA (231) | 234 of 234, cached: 234
+[c7/4405c0] MSA…c7bbdc9cf498923f25cfdf28a) | 146 of 146, cached: 146
+[skipped  ] MSA…761b631873991c2a624d8de43) | 7 of 7, stored: 7
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[2f/6cbf8a] BOL…ET:SEQ_LIST_TO_FASTA (249) | 251 of 251, cached: 251
+[10/75b3a8] BOL…ARQUET:FASTA_TO_YAML (145) | 145 of 145, cached: 145
+[d1/7adf4a] BOL…RQUET:BOLTZ_INFERENCE (60) | 60 of 60, cached: 60
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a6/dba153] MSA…ET:SEQ_LIST_TO_FASTA (256) | 254 of 254, cached: 254
+[21/a6745a] MSA…6936796cf0710ccef343098dc) | 162 of 162, cached: 162
+[skipped  ] MSA…761b631873991c2a624d8de43) | 7 of 7, stored: 7
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[2b/612846] BOL…ET:SEQ_LIST_TO_FASTA (272) | 271 of 271, cached: 271
+[30/cf5e62] BOL…ARQUET:FASTA_TO_YAML (162) | 162 of 162, cached: 162
+[cc/da6a90] BOL…RQUET:BOLTZ_INFERENCE (65) | 65 of 65, cached: 65
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[82/41029e] MSA…ET:SEQ_LIST_TO_FASTA (275) | 275 of 275, cached: 275
+[12/be5dfa] MSA…4968969c170c001dfaf11c0c5) | 182 of 182, cached: 182
+[skipped  ] MSA…761b631873991c2a624d8de43) | 7 of 7, stored: 7
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[6c/582df5] BOL…ARQUET:FASTA_TO_YAML (177) | 175 of 175, cached: 175
+[04/a14634] BOL…RQUET:BOLTZ_INFERENCE (69) | 71 of 71, cached: 71
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[38/66aa08] MSA…ET:SEQ_LIST_TO_FASTA (303) | 302 of 302, cached: 302
+[fc/c0b5db] MSA…ca1fc3c587a6458a28f214cda) | 204 of 204, cached: 204
+[skipped  ] MSA…761b631873991c2a624d8de43) | 7 of 7, stored: 7
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[bc/8d6c78] BOL…ARQUET:FASTA_TO_YAML (194) | 196 of 196, cached: 196
+[6a/02137c] BOL…RQUET:BOLTZ_INFERENCE (79) | 81 of 81, cached: 81
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[c5/6bbeda] MSA…ET:SEQ_LIST_TO_FASTA (330) | 331 of 331, cached: 331
+[7a/70cc2f] MSA…6dd7007b17e0c2c9130f5a6b1) | 218 of 218, cached: 218
+[skipped  ] MSA…b76870d9ea2cac30a4261dac9) | 8 of 8, stored: 8
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[a5/dff403] BOL…ARQUET:FASTA_TO_YAML (212) | 214 of 214, cached: 214
+[65/2f2eae] BOL…RQUET:BOLTZ_INFERENCE (90) | 90 of 90, cached: 90
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[6c/398bb3] MSA…ET:SEQ_LIST_TO_FASTA (347) | 346 of 346, cached: 346
+[c3/b1d25a] MSA…be0efe753015a2a9e4331ac26) | 236 of 236, cached: 236
+[skipped  ] MSA…b65a79ee16d7c88b8cf8e8e0a) | 10 of 10, stored: 10
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[28/f3d034] BOL…ARQUET:FASTA_TO_YAML (222) | 225 of 225, cached: 225
+[0e/c8db39] BOL…RQUET:BOLTZ_INFERENCE (95) | 95 of 95, cached: 95
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[ff/982193] MSA…ET:SEQ_LIST_TO_FASTA (374) | 374 of 374, cached: 374
+[a6/05f196] MSA…0c31223b08cd3d8e410becb2c) | 250 of 250, cached: 250
+[skipped  ] MSA…834ca1db6d218a8a2d0163275) | 11 of 11, stored: 11
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[0a/9ace14] BOL…ARQUET:FASTA_TO_YAML (240) | 242 of 242, cached: 242
+[7c/0cd311] BOL…QUET:BOLTZ_INFERENCE (110) | 110 of 110, cached: 110
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[7e/f4f333] MSA…ET:SEQ_LIST_TO_FASTA (400) | 398 of 398, cached: 398
+[63/c827e2] MSA…3a80ebc8a9ca5cb802bc163f5) | 265 of 265, cached: 265
+[skipped  ] MSA…a4ee14b842dbabd3db02a5287) | 13 of 13, stored: 13
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[48/fc9371] BOL…ARQUET:FASTA_TO_YAML (257) | 256 of 256, cached: 256
+[99/142cf4] BOL…QUET:BOLTZ_INFERENCE (121) | 119 of 119, cached: 119
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[6f/616ce0] MSA…ET:SEQ_LIST_TO_FASTA (426) | 427 of 427, cached: 427
+[e3/c2d7a0] MSA…aa4137af9f8fd561fa777b22d) | 285 of 285, cached: 285
+[skipped  ] MSA…a4ee14b842dbabd3db02a5287) | 13 of 13, stored: 13
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[7d/3063e3] BOL…ARQUET:FASTA_TO_YAML (272) | 271 of 271, cached: 271
+[93/c7810a] BOL…QUET:BOLTZ_INFERENCE (132) | 132 of 132, cached: 132
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[10/d3b94b] MSA…ET:SEQ_LIST_TO_FASTA (458) | 457 of 457, cached: 457
+[58/8f8dd6] MSA…0d0f358c982c00ef48ae5fdc5) | 301 of 301, cached: 301
+[skipped  ] MSA…a4ee14b842dbabd3db02a5287) | 13 of 13, stored: 13
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      -
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[29/339078] MSA…ET:SEQ_LIST_TO_FASTA (484) | 487 of 487, cached: 487
+[50/a0e9b3] MSA…58bae8e6d00c9edbb2246c92b) | 318 of 318, cached: 318
+[skipped  ] MSA…a4ee14b842dbabd3db02a5287) | 13 of 13, stored: 13
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      | 0 of 1
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[df/a8c6bc] MSA…ET:SEQ_LIST_TO_FASTA (519) | 521 of 521, cached: 521
+[a1/5b0286] MSA…dba8cbc5f8be2b9bc39cbfca3) | 338 of 338, cached: 338
+[skipped  ] MSA…a4ee14b842dbabd3db02a5287) | 13 of 13, stored: 13
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[-        ] DEPEND_TRIAD_ALL_ON_BOLTZ      | 0 of 1
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+executor >  local (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[46/fce401] MSA…ET:SEQ_LIST_TO_FASTA (556) | 554 of 554, cached: 554
+[d7/051a84] MSA…649ee3918709e907135a070ef) | 360 of 360, cached: 360
+[skipped  ] MSA…56af5c300e5ffd9e2a520b0e5) | 16 of 16, stored: 16
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 0 of 1
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE -
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+executor >  local (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[22/82734b] MSA…ET:SEQ_LIST_TO_FASTA (591) | 588 of 588, cached: 588
+[b5/2365b0] MSA…41722c27c3a4cd93d54d4992b) | 380 of 380, cached: 380
+[skipped  ] MSA…ba600cb72474f4d6066982b02) | 17 of 17, stored: 17
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[-        ] TCR…_GEOM_FROM_BOLTZ_INFERENCE | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+executor >  local (1), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[43/24b0d0] MSA…93666d55701c4f8b996d5c22f) | 409 of 409, cached: 409
+[skipped  ] MSA…ba600cb72474f4d6066982b02) | 17 of 17, stored: 17
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+executor >  local (1), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[94/486854] MSA…484133177de522962c730cbb2) | 437 of 437, cached: 437
+[skipped  ] MSA…ba600cb72474f4d6066982b02) | 17 of 17, stored: 17
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+executor >  local (1), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[83/985877] MSA…e262849ab430428d917701efb) | 468 of 468, cached: 468
+[skipped  ] MSA…0ebb49e28b073bec4cde3da6f) | 20 of 20, stored: 20
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+executor >  local (1), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[41/e0e248] MSA…b3ea05b9ae66952f956789010) | 499 of 499, cached: 499
+[skipped  ] MSA…30c494ba599645941905c1fca) | 22 of 22, stored: 22
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+executor >  local (1), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[f5/429000] MSA…4d21262ef04bb708de1d4e22c) | 539 of 539, cached: 539
+[skipped  ] MSA…30c494ba599645941905c1fca) | 22 of 22, stored: 22
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+executor >  local (1), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[e5/85ccb1] MSA…9a931f9144af1dc0162dd437a) | 578 of 578, cached: 578
+[skipped  ] MSA…30c494ba599645941905c1fca) | 22 of 22, stored: 22
+[-        ] UNB…INFERENCE_ALL_PDB:NOOP_DEP -
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+Plus 13 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 0 of 1
+[-        ] UNB…_ALL_PDB:SEQ_LIST_TO_FASTA -
+[-        ] UNB…LOW:COMPOSE_INFERENCE_JSON -
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 0 of 1
+Plus 12 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[1a/890e02] UNB…PDB:SEQ_LIST_TO_FASTA (21) | 23 of 23, cached: 23
+[f0/ad2cde] UNB…ad81feeb2ab9ff1d6acf12cbf) | 7 of 7, cached: 7
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[84/23b499] UNB…UET:SEQ_LIST_TO_FASTA (19) | 19 of 19, cached: 19
+[d5/88a68d] UNB…6f375666e0ae2d35066d63bbc) | 6 of 6, cached: 6
+Plus 10 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[29/763361] UNB…PDB:SEQ_LIST_TO_FASTA (37) | 36 of 36, cached: 36
+[d7/1b85e4] UNB…85045869f93600855fb86c894) | 24 of 24, cached: 24
+[-        ] UNB…FERENCE_WORKFLOW:INFERENCE -
+[-        ] UNB…RKFLOW:CLEAN_INFERENCE_DIR -
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[60/3c566c] UNB…UET:SEQ_LIST_TO_FASTA (38) | 42 of 42, cached: 42
+[aa/30634e] UNB…df13b8c8acf7f80b388efe9d9) | 18 of 18, cached: 18
+[83/60f939] UNB…FLOW:INFERENCE (inference) | 7 of 7, cached: 7
+[5e/16e2ee] UNB…ENCE_DIR (clean_inference) | 5 of 5, cached: 5
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[3d/38ca5a] UNB…PDB:SEQ_LIST_TO_FASTA (55) | 59 of 59, cached: 59
+[27/cc3e00] UNB…c6206a35c1667285309033607) | 41 of 41, cached: 41
+[0a/e848f3] UNB…FLOW:INFERENCE (inference) | 6 of 6, cached: 6
+[49/e872e2] UNB…ENCE_DIR (clean_inference) | 2 of 2, cached: 2
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[a0/0991a3] UNB…UET:SEQ_LIST_TO_FASTA (60) | 61 of 61, cached: 61
+[7a/4e5034] UNB…fbd62d8f8fac5033dbcfd1767) | 31 of 31, cached: 31
+[e1/408661] UNB…FLOW:INFERENCE (inference) | 15 of 15, cached: 15
+[cb/b2c9e5] UNB…ENCE_DIR (clean_inference) | 15 of 15, cached: 15
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[48/e4dbfa] UNB…PDB:SEQ_LIST_TO_FASTA (79) | 76 of 76, cached: 76
+[db/f53fc7] UNB…d8208f104d23d797113b81efb) | 49 of 49, cached: 49
+[41/08372e] UNB…FLOW:INFERENCE (inference) | 16 of 16, cached: 16
+[b4/a46710] UNB…ENCE_DIR (clean_inference) | 8 of 8, cached: 8
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[85/f0fa12] UNB…UET:SEQ_LIST_TO_FASTA (75) | 75 of 75, cached: 75
+[09/3a4eb3] UNB…2d6bedf6eb77334c09c044058) | 47 of 47, cached: 47
+[be/e9ae39] UNB…FLOW:INFERENCE (inference) | 24 of 24, cached: 24
+[45/1d1f42] UNB…ENCE_DIR (clean_inference) | 21 of 21, cached: 21
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[de/4c8af5] UNB…PDB:SEQ_LIST_TO_FASTA (94) | 93 of 93, cached: 93
+[23/f39449] UNB…2ecb4f66e03b4f9b835fe0eb2) | 59 of 59, cached: 59
+[f9/e3ba29] UNB…FLOW:INFERENCE (inference) | 21 of 21, cached: 21
+[c4/ce8c7d] UNB…ENCE_DIR (clean_inference) | 19 of 19, cached: 19
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[fc/4a316b] UNB…UET:SEQ_LIST_TO_FASTA (95) | 94 of 94, cached: 94
+[5e/24a66c] UNB…c47164016090eb03408ea10d5) | 62 of 62, cached: 62
+[23/3608fe] UNB…FLOW:INFERENCE (inference) | 27 of 27, cached: 27
+[74/1f01a0] UNB…ENCE_DIR (clean_inference) | 27 of 27, cached: 27
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[d9/f1844c] UNB…DB:SEQ_LIST_TO_FASTA (113) | 112 of 112, cached: 112
+[9f/f9d7c2] UNB…7f18df21603cae5ba827fccf4) | 71 of 71, cached: 71
+[4d/badd5f] UNB…FLOW:INFERENCE (inference) | 29 of 29, cached: 29
+[e4/5aaa9b] UNB…ENCE_DIR (clean_inference) | 28 of 28, cached: 28
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[c3/d8a26c] UNB…ET:SEQ_LIST_TO_FASTA (107) | 109 of 109, cached: 109
+[cc/6c29f0] UNB…a62317d0324e9a9a7161808ac) | 73 of 73, cached: 73
+[a1/e36f9f] UNB…FLOW:INFERENCE (inference) | 33 of 33, cached: 33
+[ce/5a83a9] UNB…ENCE_DIR (clean_inference) | 30 of 30, cached: 30
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[a6/b074ec] UNB…DB:SEQ_LIST_TO_FASTA (143) | 141 of 141, cached: 141
+[d9/92f93e] UNB…2aec4f95f5000cdfefc1326d7) | 85 of 85, cached: 85
+[9d/f753aa] UNB…FLOW:INFERENCE (inference) | 33 of 33, cached: 33
+[11/0a19b8] UNB…ENCE_DIR (clean_inference) | 33 of 33, cached: 33
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[b7/482fcb] UNB…ET:SEQ_LIST_TO_FASTA (125) | 128 of 128, cached: 128
+[13/48e863] UNB…9600e37ac9a7356dfc2c73d71) | 81 of 81, cached: 81
+[be/61e293] UNB…FLOW:INFERENCE (inference) | 37 of 37, cached: 37
+[f7/5b7866] UNB…ENCE_DIR (clean_inference) | 37 of 37, cached: 37
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[38/ba8ba8] UNB…DB:SEQ_LIST_TO_FASTA (164) | 166 of 166, cached: 166
+[f3/a4c732] UNB…d318e57bbee02e0aade2dcafe) | 99 of 99, cached: 99
+[9e/a9d4f2] UNB…FLOW:INFERENCE (inference) | 39 of 39, cached: 39
+[15/18352c] UNB…ENCE_DIR (clean_inference) | 39 of 39, cached: 39
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[d9/362c9f] UNB…ET:SEQ_LIST_TO_FASTA (148) | 150 of 150, cached: 150
+[10/485599] UNB…76935985e998ce41cf164820d) | 94 of 94, cached: 94
+[37/6991ef] UNB…FLOW:INFERENCE (inference) | 46 of 46, cached: 46
+[5c/5d0246] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 44
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[47/359b37] UNB…DB:SEQ_LIST_TO_FASTA (184) | 185 of 185, cached: 185
+[8b/dada8b] UNB…8d8ffc7bb3cad0f358c8ae051) | 114 of 114, cached: 114
+[51/2b1bf4] UNB…FLOW:INFERENCE (inference) | 47 of 47, cached: 47
+[c6/7465d1] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 44
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[73/678d68] UNB…ET:SEQ_LIST_TO_FASTA (165) | 166 of 166, cached: 166
+[11/9bc325] UNB…2c5b759f63a0e20bbfd0b9faf) | 109 of 109, cached: 109
+[c4/3cce59] UNB…FLOW:INFERENCE (inference) | 53 of 53, cached: 53
+[86/976929] UNB…ENCE_DIR (clean_inference) | 52 of 52, cached: 52
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[fd/7a19e6] UNB…DB:SEQ_LIST_TO_FASTA (208) | 208 of 208, cached: 208
+[10/068263] UNB…76b5f586187992bff648f7a8f) | 127 of 127, cached: 127
+[70/46c147] UNB…FLOW:INFERENCE (inference) | 53 of 53, cached: 53
+[b5/b9828c] UNB…ENCE_DIR (clean_inference) | 52 of 52, cached: 52
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[01/b6cf2e] UNB…ET:SEQ_LIST_TO_FASTA (187) | 187 of 187, cached: 187
+[b9/039368] UNB…9a04317a97abc36363cb3e15f) | 123 of 123, cached: 123
+[e4/8790af] UNB…FLOW:INFERENCE (inference) | 57 of 57, cached: 57
+[90/467da7] UNB…ENCE_DIR (clean_inference) | 55 of 55, cached: 55
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[1b/1a1f20] UNB…DB:SEQ_LIST_TO_FASTA (228) | 228 of 228, cached: 228
+[9e/b54cce] UNB…3f10fe434d3ed9a2aac42426c) | 140 of 140, cached: 140
+[e5/dffa9c] UNB…FLOW:INFERENCE (inference) | 60 of 60, cached: 60
+[2a/ff112f] UNB…ENCE_DIR (clean_inference) | 59 of 59, cached: 59
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[72/21ae43] UNB…ET:SEQ_LIST_TO_FASTA (210) | 209 of 209, cached: 209
+[60/ae757f] UNB…077ab17f6271d193fe694a3b1) | 135 of 135, cached: 135
+[bc/e860bb] UNB…FLOW:INFERENCE (inference) | 65 of 65, cached: 65
+[55/6fc887] UNB…ENCE_DIR (clean_inference) | 64 of 64, cached: 64
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[54/f04637] UNB…DB:SEQ_LIST_TO_FASTA (245) | 247 of 247, cached: 247
+[4e/92e9a5] UNB…982382eeff8df10a51cdc5302) | 155 of 155, cached: 155
+[d2/a7c8ec] UNB…FLOW:INFERENCE (inference) | 62 of 62, cached: 62
+[b5/b00bd3] UNB…ENCE_DIR (clean_inference) | 62 of 62, cached: 62
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[1d/ed6991] UNB…ET:SEQ_LIST_TO_FASTA (230) | 230 of 230, cached: 230
+[dc/7dc232] UNB…0c27ce4343ec957b44f3f04c8) | 149 of 149, cached: 149
+[cc/8949a7] UNB…FLOW:INFERENCE (inference) | 69 of 69, cached: 69
+[a1/06d10e] UNB…ENCE_DIR (clean_inference) | 69 of 69, cached: 69
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[1a/bd902e] UNB…DB:SEQ_LIST_TO_FASTA (273) | 270 of 270, cached: 270
+[7e/f62b68] UNB…7aa56ab7d090d6c0a1f939c46) | 167 of 167, cached: 167
+[40/811f02] UNB…FLOW:INFERENCE (inference) | 68 of 68, cached: 68
+[51/21ff84] UNB…ENCE_DIR (clean_inference) | 66 of 66, cached: 66
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[0a/7dedad] UNB…f56b56c47d37a2a13f666ce93) | 169 of 169, cached: 169
+[54/5b70d7] UNB…FLOW:INFERENCE (inference) | 78 of 78, cached: 78
+[2c/bd5eac] UNB…ENCE_DIR (clean_inference) | 77 of 77, cached: 77
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[c1/11ff34] UNB…34f5a1508c7b504b8bd4f3f0b) | 181 of 181, cached: 181
+[7e/e24d1f] UNB…FLOW:INFERENCE (inference) | 76 of 76, cached: 76
+[a5/486ac2] UNB…ENCE_DIR (clean_inference) | 74 of 74, cached: 74
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[35/08de3b] UNB…ba04b5046b29d22c49728505e) | 184 of 184, cached: 184
+[54/e65404] UNB…FLOW:INFERENCE (inference) | 90 of 90, cached: 90
+[b9/b95382] UNB…ENCE_DIR (clean_inference) | 88 of 88, cached: 88
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[d1/490247] UNB…91c8b2d204ab7d420da955a8a) | 199 of 199, cached: 199
+[8c/57b781] UNB…FLOW:INFERENCE (inference) | 83 of 83, cached: 83
+[0f/c41199] UNB…ENCE_DIR (clean_inference) | 81 of 81, cached: 81
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[79/3020c5] UNB…4bb1e06282ae876aa30112c55) | 202 of 202, cached: 202
+[c9/971666] UNB…FLOW:INFERENCE (inference) | 99 of 99, cached: 99
+[90/4c212c] UNB…ENCE_DIR (clean_inference) | 96 of 96, cached: 96
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[7e/02fa2c] UNB…80f4bd412fcfd69aff788e622) | 220 of 220, cached: 220
+[2a/4168f8] UNB…FLOW:INFERENCE (inference) | 93 of 93, cached: 93
+[c7/3ee121] UNB…ENCE_DIR (clean_inference) | 91 of 91, cached: 91
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[f5/dc4ee9] UNB…a868fe3bb5f6ae5dcca81889f) | 225 of 225, cached: 225
+[9a/dd0bed] UNB…FLOW:INFERENCE (inference) | 107 of 107, cached: 107
+[9b/a488d1] UNB…ENCE_DIR (clean_inference) | 104 of 104, cached: 104
+Plus 8 more processes waiting for tasks…
+
+executor >  local (3), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[ac/74b070] UNB…b309e15c410a1a5b303f878a0) | 243 of 243, cached: 243
+[fe/94bf84] UNB…FLOW:INFERENCE (inference) | 105 of 105, cached: 105
+[75/69d9e2] UNB…ENCE_DIR (clean_inference) | 101 of 101, cached: 101
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[82/b2ac8a] UNB…ENCE_DIR (clean_inference) | 113 of 113, cached: 113
+Plus 8 more processes waiting for tasks…
+
+executor >  local (4), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[e6/3d13ec] UNB…cc84e9f7c914df32578ba2905) | 267 of 267, cached: 267
+[db/43283d] UNB…FLOW:INFERENCE (inference) | 126 of 126, cached: 126
+[99/58cf06] UNB…ENCE_DIR (clean_inference) | 125 of 125, cached: 125
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 0 of 1
+Plus 7 more processes waiting for tasks…
+
+executor >  local (4), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[-        ] DEPEND_TRIAD_ALL_ON_INFERENCE  -
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE -
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Plus 7 more processes waiting for tasks…
+
+executor >  local (6), slurm (1)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[-        ] TCR…CK_GEOM_FROM_AF3_INFERENCE | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[68/f38b81] UNB…ION:SEQ_LIST_TO_FASTA (10) | 11 of 11, cached: 11
+[e5/4d7ad3] UNB…10810562e44920fa041315954) | 4 of 4, cached: 4
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Plus 4 more processes waiting for tasks…
+
+executor >  local (6), slurm (2)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[19/b56599] UNB…ION:SEQ_LIST_TO_FASTA (49) | 49 of 49, cached: 49
+[0e/d00504] UNB…595c502c837c77bf026cff3e4) | 26 of 26, cached: 26
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Plus 4 more processes waiting for tasks…
+
+executor >  local (6), slurm (2)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[06/d352d1] UNB…ION:SEQ_LIST_TO_FASTA (96) | 96 of 96, cached: 96
+[9b/0faa60] UNB…0a47b7d31069ef7434d1dafe9) | 49 of 49, cached: 49
+[92/dd56b2] UNB…FLOW:INFERENCE (inference) | 4 of 4, cached: 4
+[90/55e181] UNB…ENCE_DIR (clean_inference) | 4 of 4, cached: 4
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Plus 2 more processes waiting for tasks…
+
+executor >  local (6), slurm (2)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[63/7da797] UNB…ON:SEQ_LIST_TO_FASTA (134) | 134 of 134, cached: 134
+[24/a35053] UNB…b8d24c6f3a1bdd9ee136ee927) | 78 of 78, cached: 78
+[b1/fe7445] UNB…FLOW:INFERENCE (inference) | 7 of 7, cached: 7
+[5a/bee15d] UNB…ENCE_DIR (clean_inference) | 6 of 6, cached: 6
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Plus 2 more processes waiting for tasks…
+
+executor >  local (6), slurm (2)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[8f/650cfb] UNB…ON:SEQ_LIST_TO_FASTA (176) | 174 of 174, cached: 174
+[ab/38c676] UNB…e1233cf85a5d5fb2b68398b8f) | 99 of 99, cached: 99
+[30/6f5743] UNB…FLOW:INFERENCE (inference) | 10 of 10, cached: 10
+[dc/839f3d] UNB…ENCE_DIR (clean_inference) | 10 of 10, cached: 10
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Plus 2 more processes waiting for tasks…
+
+executor >  local (6), slurm (2)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[e2/de9f37] UNB…ON:SEQ_LIST_TO_FASTA (211) | 211 of 211, cached: 211
+[ad/214811] UNB…bd2c7164437e8bb057f7963a5) | 120 of 120, cached: 120
+[8d/c84701] UNB…FLOW:INFERENCE (inference) | 13 of 13, cached: 13
+[6b/c49503] UNB…ENCE_DIR (clean_inference) | 13 of 13, cached: 13
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Plus 2 more processes waiting for tasks…
+
+executor >  local (6), slurm (2)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[9d/cade19] UNB…64c6ac80301884df9f7513e91) | 145 of 145, cached: 145
+[65/a8ad3c] UNB…FLOW:INFERENCE (inference) | 18 of 18, cached: 18
+[e6/81f41b] UNB…ENCE_DIR (clean_inference) | 17 of 17, cached: 17
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Plus 2 more processes waiting for tasks…
+
+executor >  local (6), slurm (2)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[96/b27df0] UNB…dcd41cb322cd1d5988b447a65) | 177 of 177, cached: 177
+[d7/fd1b36] UNB…FLOW:INFERENCE (inference) | 22 of 22, cached: 22
+[46/412670] UNB…ENCE_DIR (clean_inference) | 22 of 22, cached: 22
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Plus 2 more processes waiting for tasks…
+
+executor >  local (6), slurm (2)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[91/00cc02] UNB…32ae907fd6723b9a244dd5e5d) | 206 of 206, cached: 206
+[fd/5dde2b] UNB…FLOW:INFERENCE (inference) | 36 of 36, cached: 36
+[af/4d571f] UNB…ENCE_DIR (clean_inference) | 33 of 33, cached: 33
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Plus 2 more processes waiting for tasks…
+
+executor >  local (8), slurm (2)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[e9/edac1f] UNB…042429b90659ee97b80ab3aea) | 237 of 237, cached: 237
+[84/fa5a62] UNB…FLOW:INFERENCE (inference) | 42 of 42, cached: 42
+[4f/0e3b70] UNB…ENCE_DIR (clean_inference) | 39 of 42, cached: 39
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Plus 2 more processes waiting for tasks…
+
+executor >  local (9), slurm (2)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[51/2790bc] UNB…9eacf93457a1063cd1f16841b) | 243 of 243, cached: 243 ✔
+[96/e3b0e9] UNB…FLOW:INFERENCE (inference) | 44 of 44, cached: 44 ✔
+[e1/667cdf] UNB…ENCE_DIR (clean_inference) | 41 of 44, cached: 41
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Plus 2 more processes waiting for tasks…
+
+executor >  local (10), slurm (2)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[51/2790bc] UNB…9eacf93457a1063cd1f16841b) | 243 of 243, cached: 243 ✔
+[96/e3b0e9] UNB…FLOW:INFERENCE (inference) | 44 of 44, cached: 44 ✔
+[ae/88bdde] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 41 ✔
+[d0/ec181f] DEP…ALIDATION_ON_INFERENCE (1) | 0 of 1
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Plus 1 more processes waiting for tasks…
+
+executor >  local (10), slurm (3)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[51/2790bc] UNB…9eacf93457a1063cd1f16841b) | 243 of 243, cached: 243 ✔
+[96/e3b0e9] UNB…FLOW:INFERENCE (inference) | 44 of 44, cached: 44 ✔
+[ae/88bdde] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 41 ✔
+[d0/ec181f] DEP…ALIDATION_ON_INFERENCE (1) | 1 of 1 ✔
+[31/02c215] TCRDOCK_GEOM_VALIDATION (1)    | 0 of 1
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+
+executor >  local (10), slurm (3)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[51/2790bc] UNB…9eacf93457a1063cd1f16841b) | 243 of 243, cached: 243 ✔
+[96/e3b0e9] UNB…FLOW:INFERENCE (inference) | 44 of 44, cached: 44 ✔
+[ae/88bdde] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 41 ✔
+[d0/ec181f] DEP…ALIDATION_ON_INFERENCE (1) | 1 of 1 ✔
+[31/02c215] TCRDOCK_GEOM_VALIDATION (1)    | 0 of 1
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+
+executor >  local (10), slurm (3)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[51/2790bc] UNB…9eacf93457a1063cd1f16841b) | 243 of 243, cached: 243 ✔
+[96/e3b0e9] UNB…FLOW:INFERENCE (inference) | 44 of 44, cached: 44 ✔
+[ae/88bdde] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 41 ✔
+[d0/ec181f] DEP…ALIDATION_ON_INFERENCE (1) | 1 of 1 ✔
+[31/02c215] TCRDOCK_GEOM_VALIDATION (1)    | 0 of 1
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+
+executor >  local (10), slurm (3)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 0 of 1
+[-        ] COMPUTE_RMSD_AF3               -
+[-        ] COMPUTE_RMSD_BOLTZ             -
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[51/2790bc] UNB…9eacf93457a1063cd1f16841b) | 243 of 243, cached: 243 ✔
+[96/e3b0e9] UNB…FLOW:INFERENCE (inference) | 44 of 44, cached: 44 ✔
+[ae/88bdde] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 41 ✔
+[d0/ec181f] DEP…ALIDATION_ON_INFERENCE (1) | 1 of 1 ✔
+[31/02c215] TCRDOCK_GEOM_VALIDATION (1)    | 1 of 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+
+executor >  local (11), slurm (3)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 1 of 1 ✔
+[-        ] COMPUTE_RMSD_AF3               -
+[a9/6b6c5c] COMPUTE_RMSD_BOLTZ (1)         | 0 of 1
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[51/2790bc] UNB…9eacf93457a1063cd1f16841b) | 243 of 243, cached: 243 ✔
+[96/e3b0e9] UNB…FLOW:INFERENCE (inference) | 44 of 44, cached: 44 ✔
+[ae/88bdde] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 41 ✔
+[d0/ec181f] DEP…ALIDATION_ON_INFERENCE (1) | 1 of 1 ✔
+[31/02c215] TCRDOCK_GEOM_VALIDATION (1)    | 1 of 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+
+executor >  local (11), slurm (3)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 0 of 1
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 1 of 1 ✔
+[-        ] COMPUTE_RMSD_AF3               -
+[a9/6b6c5c] COMPUTE_RMSD_BOLTZ (1)         | 0 of 1
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[51/2790bc] UNB…9eacf93457a1063cd1f16841b) | 243 of 243, cached: 243 ✔
+[96/e3b0e9] UNB…FLOW:INFERENCE (inference) | 44 of 44, cached: 44 ✔
+[ae/88bdde] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 41 ✔
+[d0/ec181f] DEP…ALIDATION_ON_INFERENCE (1) | 1 of 1 ✔
+[31/02c215] TCRDOCK_GEOM_VALIDATION (1)    | 1 of 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+
+executor >  local (11), slurm (3)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 1 of 1 ✔
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 1 of 1 ✔
+[-        ] COMPUTE_RMSD_AF3               -
+[a9/6b6c5c] COMPUTE_RMSD_BOLTZ (1)         | 0 of 1
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[51/2790bc] UNB…9eacf93457a1063cd1f16841b) | 243 of 243, cached: 243 ✔
+[96/e3b0e9] UNB…FLOW:INFERENCE (inference) | 44 of 44, cached: 44 ✔
+[ae/88bdde] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 41 ✔
+[d0/ec181f] DEP…ALIDATION_ON_INFERENCE (1) | 1 of 1 ✔
+[31/02c215] TCRDOCK_GEOM_VALIDATION (1)    | 1 of 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+
+executor >  local (12), slurm (3)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 1 of 1 ✔
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 1 of 1 ✔
+[6d/068ed5] COMPUTE_RMSD_AF3 (1)           | 0 of 1
+[a9/6b6c5c] COMPUTE_RMSD_BOLTZ (1)         | 0 of 1
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[51/2790bc] UNB…9eacf93457a1063cd1f16841b) | 243 of 243, cached: 243 ✔
+[96/e3b0e9] UNB…FLOW:INFERENCE (inference) | 44 of 44, cached: 44 ✔
+[ae/88bdde] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 41 ✔
+[d0/ec181f] DEP…ALIDATION_ON_INFERENCE (1) | 1 of 1 ✔
+[31/02c215] TCRDOCK_GEOM_VALIDATION (1)    | 1 of 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+
+executor >  local (12), slurm (3)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 1 of 1 ✔
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 1 of 1 ✔
+[6d/068ed5] COMPUTE_RMSD_AF3 (1)           | 0 of 1
+[a9/6b6c5c] COMPUTE_RMSD_BOLTZ (1)         | 1 of 1 ✔
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[51/2790bc] UNB…9eacf93457a1063cd1f16841b) | 243 of 243, cached: 243 ✔
+[96/e3b0e9] UNB…FLOW:INFERENCE (inference) | 44 of 44, cached: 44 ✔
+[ae/88bdde] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 41 ✔
+[d0/ec181f] DEP…ALIDATION_ON_INFERENCE (1) | 1 of 1 ✔
+[31/02c215] TCRDOCK_GEOM_VALIDATION (1)    | 1 of 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+
+executor >  local (12), slurm (3)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 1 of 1 ✔
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 1 of 1 ✔
+[6d/068ed5] COMPUTE_RMSD_AF3 (1)           | 1 of 1 ✔
+[a9/6b6c5c] COMPUTE_RMSD_BOLTZ (1)         | 1 of 1 ✔
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[51/2790bc] UNB…9eacf93457a1063cd1f16841b) | 243 of 243, cached: 243 ✔
+[96/e3b0e9] UNB…FLOW:INFERENCE (inference) | 44 of 44, cached: 44 ✔
+[ae/88bdde] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 41 ✔
+[d0/ec181f] DEP…ALIDATION_ON_INFERENCE (1) | 1 of 1 ✔
+[31/02c215] TCRDOCK_GEOM_VALIDATION (1)    | 1 of 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+
+executor >  local (12), slurm (3)
+[26/c7f9a2] CLEAN_PDB (1)                  | 1 of 1, cached: 1 ✔
+[3b/ec04f1] FORMAT_TRUE_PDBS (1)           | 1 of 1, cached: 1 ✔
+[a9/ed7949] MSA…ET:SEQ_LIST_TO_FASTA (594) | 598 of 598, cached: 598 ✔
+[88/895423] MSA…77d461126fdd57ba9411079fd) | 598 of 598, cached: 598 ✔
+[skipped  ] MSA…9a931f9144af1dc0162dd437a) | 23 of 23, stored: 23 ✔
+[fc/fff73f] UNB…RENCE_ALL_PDB:NOOP_DEP (1) | 1 of 1 ✔
+[6b/900216] UNB…DB:SEQ_LIST_TO_FASTA (286) | 288 of 288, cached: 288 ✔
+[f7/743c7e] UNB…0f02efa07a5e1795130328a12) | 288 of 288, cached: 288 ✔
+[bf/254aa9] UNB…FLOW:INFERENCE (inference) | 136 of 136, cached: 136 ✔
+[7d/23800e] UNB…ENCE_DIR (clean_inference) | 136 of 136, cached: 136 ✔
+[79/125781] DEP…TRIAD_ALL_ON_INFERENCE (1) | 1 of 1 ✔
+[8c/47eaa9] BOL…ET:SEQ_LIST_TO_FASTA (287) | 288 of 288, cached: 288 ✔
+[63/d2626f] BOL…ARQUET:FASTA_TO_YAML (288) | 288 of 288, cached: 288 ✔
+[c9/8772c1] BOL…QUET:BOLTZ_INFERENCE (136) | 136 of 136, cached: 136 ✔
+[b5/45150d] DEPEND_TRIAD_ALL_ON_BOLTZ (1)  | 1 of 1 ✔
+[75/871903] TCRDOCK_GEOM_FROM_PDB (1)      | 1 of 1, cached: 1 ✔
+[58/fb7ae4] TCR…EOM_FROM_AF3_INFERENCE (1) | 1 of 1 ✔
+[09/c8c939] TCR…M_FROM_BOLTZ_INFERENCE (1) | 1 of 1 ✔
+[6d/068ed5] COMPUTE_RMSD_AF3 (1)           | 1 of 1 ✔
+[a9/6b6c5c] COMPUTE_RMSD_BOLTZ (1)         | 1 of 1 ✔
+[88/0673e4] VALIDATION_STANDARDIZE (1)     | 1 of 1, cached: 1 ✔
+[fb/ca4e1c] EXC…INING_DATA:SPLIT_QUERY (1) | 1 of 1, cached: 1 ✔
+[23/dac21d] EXC…INING_DATA:BLAST_MHC_1 (1) | 1 of 1, cached: 1 ✔
+[bf/7ab05c] EXC…INING_DATA:BLAST_MHC_2 (1) | 1 of 1, cached: 1 ✔
+[cd/6e468b] EXC…INING_DATA:BLAST_TCR_1 (1) | 1 of 1, cached: 1 ✔
+[e8/718498] EXC…INING_DATA:BLAST_TCR_2 (1) | 1 of 1, cached: 1 ✔
+[69/3a044b] EXC…NNOTATE_TRIAD_FROM_PDB (1) | 1 of 1, cached: 1 ✔
+[01/957b29] GEN_NEGATIVES (1)              | 1 of 1, cached: 1 ✔
+[0e/518acb] UNB…CE_VALIDATION:NOOP_DEP (1) | 1 of 1 ✔
+[33/a7a365] UNB…ON:SEQ_LIST_TO_FASTA (242) | 243 of 243, cached: 243 ✔
+[51/2790bc] UNB…9eacf93457a1063cd1f16841b) | 243 of 243, cached: 243 ✔
+[96/e3b0e9] UNB…FLOW:INFERENCE (inference) | 44 of 44, cached: 44 ✔
+[ae/88bdde] UNB…ENCE_DIR (clean_inference) | 44 of 44, cached: 41 ✔
+[d0/ec181f] DEP…ALIDATION_ON_INFERENCE (1) | 1 of 1 ✔
+[31/02c215] TCRDOCK_GEOM_VALIDATION (1)    | 1 of 1 ✔
+[62/05bdd2] UNB…_PMHC_PARQUET:NOOP_DEP (1) | 1 of 1 ✔
+[99/6bedbe] UNB…ET:SEQ_LIST_TO_FASTA (236) | 237 of 237, cached: 237 ✔
+[db/c31600] UNB…cda08039fc5e47bdc940e39b6) | 237 of 237, cached: 237 ✔
+[69/b1505e] UNB…FLOW:INFERENCE (inference) | 114 of 114, cached: 114 ✔
+[b2/685f71] UNB…ENCE_DIR (clean_inference) | 114 of 114, cached: 114 ✔
+[54/e5474d] DEPEND_PMHC_ON_INFERENCE (1)   | 1 of 1 ✔
+Completed at: 27-May-2026 14:02:57
+Duration    : 21m 13s
+CPU hours   : 480.1 (99.4% cached)
+Succeeded   : 15
+Cached      : 4'040
+
+

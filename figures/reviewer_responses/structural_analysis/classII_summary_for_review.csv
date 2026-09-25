@@ -1,0 +1,11 @@
+pdb,release_date,cdr_rmsd,pti_pae,peptide,mhc_1_name,on_johns_tsv,source,title
+8pjg,2024-06-19,1.5399888061370697,3.5413460731506348,PKYVKQNTLKLAR,DRA*01:01,yes,already folded in the published pdb.nf run,F11 TCR in complex with Human Leukocyte Antigen class II allotype DR1 presenting P11T->R modified influenza A virus haemagglutinin (HA)306-318 PKYVKQNTLKLAR
+8vcy,2024-08-07,1.938021609041649,11.897765159606934,GQVELGGGSSPETCI,DQA1*03:01,yes,already folded in the published pdb.nf run,Human TCR A2.13 in complex with DQ8-InsC8-15NPY
+9yag,2026-08-19,2.008851429435756,4.5088725090026855,QPFPQPEQPFPC,DQA1*05:01,yes,"newly folded (hla2.nf, this week)",TCR-HLA-DQ2.5-glia-w1 complex
+9aud,2025-02-05,2.0405667511270216,5.048736095428467,QVYSLIRPNENPA,H2-Aa,yes,"newly folded (hla2.nf, this week)",Immune receptor complex
+9yaf,2026-08-19,2.093623472301525,5.7932305335998535,AQPFPQPELPYPG,DQA1*05:01,yes,"newly folded (hla2.nf, this week)",TCR-HLA-DQ2.5-glia-a1a complex
+8vcx,2024-08-07,2.1663041271237136,8.741244316101074,GQVELGGGPGAESCQ,DQA1*03:01,yes,already folded in the published pdb.nf run,Human TCR A2.13 in complex with DQ8-InsCpep
+8vq8,2025-01-29,2.4386624675019473,6.544933319091797,QVYSLIRPNENPA,H2-Aa,yes,"newly folded (hla2.nf, this week)",Immune receptor complex
+8vd0,2024-08-07,3.022954228403272,10.395060539245604,GQVELGGGNAVEVCKG,DQA1*03:01,yes,already folded in the published pdb.nf run,Human TCR ET650-4 in complex with DQ8-InsC8-15-IAPP2
+8vd2,2024-08-07,3.436769378530927,12.20193862915039,GQVELGGGTPIESCQ,DQA1*03:01,yes,already folded in the published pdb.nf run,Human TCR ET650-4 in complex with DQ8-InsC8-15-IAPP1
+27eb,2026-08-26,22.16754058857319,17.52220916748047,APQPEQPFPWQC,DQA1*05:01,NO,"newly folded (hla2.nf, this week)",TCR-HLA-DQ2.5-glia-w2 complex

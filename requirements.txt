@@ -1,0 +1,46 @@
+# Host-side analysis + figure environment. Derived from the imports actually present
+# in analysis/, figures/, and configs/ -- not aspirational.
+#
+#   python -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt
+#
+# This covers everything needed to REPRODUCE THE FIGURES locally: the derived metric
+# tables are tracked, so no GPU and no cluster access is required. Regenerating the
+# *predictions* is a separate matter -- see docs/PIPELINE.md, docs/TCRDOCK.md, and
+# docs/ENVIRONMENT_gemini.md; those environments are built on the cluster and are
+# deliberately not described here.
+
+# --- core ---------------------------------------------------------------------
+numpy
+pandas
+scipy
+matplotlib
+biopython            # Bio.*  — sequence/structure parsing
+scikit-learn         # sklearn — ROC/AUC in the validation figures
+requests
+
+# --- tabular -------------------------------------------------------------------
+polars               # used by parts of the triad analysis
+pyarrow              # REQUIRED to read the *.parquet metric tables with pandas/polars.
+                     # Its absence is a common stumbling block: pandas raises
+                     # "Unable to find a usable engine" rather than a missing-package
+                     # error. Prefer the CSV mirrors in data/exports/ if you cannot
+                     # install it.
+openpyxl             # supplementary tables are .xlsx
+
+# --- notebooks -----------------------------------------------------------------
+jupyterlab
+ipykernel
+
+# --- immunology / structure ----------------------------------------------------
+anarci               # antibody/TCR numbering. NOT on PyPI -- install from
+                     # conda-forge/bioconda or from source (github.com/oxpig/ANARCI).
+                     # Only needed for the per-component identity analysis.
+tcrdist3             # provides `tcrdist` — the TCRdist leakage analysis (leakage_v4)
+MDAnalysis           # RMSD calculations in scripts/rmsd.py
+
+# --- notes ---------------------------------------------------------------------
+# `mdaf3` and `tcrtrifold` are imported by a few scripts and are LAB-INTERNAL modules
+# from the upstream Nextflow pipeline (github.com/AltinLab/tcrtrifold-experiments), not
+# public packages. Scripts needing them run on the cluster where that repo is on the
+# PYTHONPATH; they are not required for the tracked figure notebooks.
+#

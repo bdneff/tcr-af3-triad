@@ -1,0 +1,846 @@
+as_num_value,units,response,assay_type,mhc_allele_name,mhc_class,receptor_id,peptide,references_id
+1.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,147,SLLMWITQC,1013981
+130000000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,9372,,1025031
+58200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9113,NLVPTVATV,1016521
+0.04,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28200,SLLMWITQC,1011725
+3180.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9109,HSKKKCDEL,1028368
+187.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1024598
+78000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28847,ALRGMGVNAV,1031442
+15000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,63,IPSINVHHY,1028458
+11.2,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1024598
+19900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*05:01/DQB1*02:01,II,58359,QLQPFPQPQLPY,1034238
+1.2,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28847,KLVVLGINAV,1031442
+1000.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37270,ELGGIGILTV,1036012
+23000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,205435,RLQSLQIYV,1040001
+36000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,568,ELAAIGILTV,1026077
+3900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,8745,QLSPFPFDL,1026954
+40600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,8910,,1032453
+90000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,36795,RVSYYGPKTSPVQ,1035273
+10690.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,176,,1024674
+1200.0,nM,dissociation constant KD,binding assay,HLA-A*02:01,I,139,LLFGYPVYV,1025029
+28200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9226,FLRGRAYGL,1018605
+2100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*03:01/DQB1*03:02,II,1861,SGQGSFQPSQQNP,1029004
+420.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*04:01,II,9155,FSWGAEGQRPGFG,1021504
+32000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,9255,FEAQKAKANKAVD,1027863
+6210.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219432,NQKLIANQF,1042784
+100.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37270,ELAGIGILAV,1036012
+954900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1880,YLEPGAVTA,1029982
+8200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B8,I,58,FLRGRAYGL,1004580
+6000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,9372,FEAQKAKANKAVD,1025031
+6590.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,833,HSKKKCDEL,1028368
+7100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1c,non classical,832,,1028341
+37000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,568,ELAGIGILAV,1026077
+4620.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,37351,SLLMWITQC,1032289
+400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,37352,SLLMWITQC,1032289
+16.5,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,28121,SIYRYYGL,1010014
+127700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201944,GGYRARPAKAAAT,1038600
+18700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01 K66A mutant,I,9085,LLFGYPVYV,1008073
+20200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IEk,II,404,ANERADLIAYLKQATK,1022198
+51700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IEk,II,9105,ANERADLIAYLKQATK,1022198
+5600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Db,I,1614,KAPYNFATM,1036784
+6000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*04:01,II,9101,FSWGAEGQRPGFG,1021504
+270000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9107,ALWGPDPAAA,1032128
+62800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,205436,RLQSLQIYV,1040001
+18500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,8910,,1032453
+1.7,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28791,KLVVLGINAV,1031442
+100.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37270,ELAGIGIITV,1036012
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9876,GLCTLVAML,1021176
+190.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,156344,GVYDGREHTV,1037056
+12360.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219350,NQKLIANAF,1042784
+12700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8772,GTSGAPIVNR,1032274
+18600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,8912,,1032453
+1500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22360,KVAELVHFL,1033655
+1540.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*44:05,I,58,EEYLKAWTF,1017865
+1500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28298,LLFGYPVYV,1011725
+2000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,663,,1028023
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,146,LPEPLAQGQLTAY,1028961
+6.2,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22435,LLFGYPVYV,1031961
+400000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8773,GTSGSPIINR,1032274
+26000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*27:05,I,213690,LRVMMLAPF,1041763
+23000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,447,,1024695
+176700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,421,CLGGLATMV,1022691
+320.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,177,,1025141
+22000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,156344,AVYDGREHTV,1037056
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14896,GLCTLVAML,1021176
+280.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28777,SLLMWITQC,1012513
+110000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,221522,SMDWFQGQM,1032888
+7600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,8910,,1032453
+460.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LLFGFPVYV,1017753
+62800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,205436,RLQSLQTYV,1040001
+12360.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219350,NQKLIANQF,1042784
+66.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28848,KLKSLGLNAV,1031442
+1000.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37270,ELAGIGILSV,1036012
+5800.0,nM,dissociation constant KD,binding assay,H2-Db,I,1614,KAVYNFATM,1036784
+15800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9109,HSKRKCDEL,1028368
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9220,FLRGRAYGL,1018605
+250000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQ1,II,9083,ENPVVHFFKNIVTPR,1021691
+1.235,nM,dissociation constant KD,binding assay,HLA-DRB1*15:01,II,221708,RVLGLVLLRGENLVS,1043570
+100000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28788,ALGIGILTV,1034243
+6240.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219432,NQKLIANQF,1042784
+189000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*44:02,I,58,EEYLQAFTY,1017865
+2790.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9085,LLFGFPVYV,1012973
+11200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IEk,II,9104,ANERADLIAYLKQATK,1022198
+21100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*24:02,I,668,RFPLTFGWCF,1026965
+21000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9145,ELAGIGIATV,1026077
+73000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,9241,,1029874
+18850.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,29101,,1012877
+461.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201221,ILSPFLPLL,1038348
+84100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,9257,EQYKFYSV,1020346
+21.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22434,LLFGYPVYV,1031961
+11470.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219447,NQKLIANAF,1042784
+15.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,37350,SLLMWITQC,1032289
+530.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22377,KVAELVHFL,1033655
+100.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37270,ELAGIGLLTV,1036012
+11400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1023,YLEPGAVTA,1029982
+3750.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,9112,LPEPLPQGQLTAY,1026301
+1000.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,ELGGIGILTV,1036012
+150.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22383,LLFGYPVYV,1031961
+30000.0,nM,dissociation constant KD,binding assay,H2-Db,I,8548,ASNENMETM,1030829
+500000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IEk,II,9106,ANERADLIAYLEQATK,1022198
+22170.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*02:01/DQB1*02:02,II,60973,PFSQQQQPVL,1036351
+52030.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,329,HPVGQADYFEY,1019752
+1000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,790,,1028023
+94.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1029063
+3600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,148,INFDFNTI,1013982
+12200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,8912,,1032453
+93200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,9095,HPVGEADYFEY,1027926
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9124,FLRGRAYGL,1018605
+56500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9113,NLVAMVATV,1016521
+247.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1024598
+45400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*05:01/DQB1*02:01,II,58327,QLQPFPQPQLPY,1034238
+,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1023,YLAPGPVTA,1029982
+8400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01 R65A mutant,I,9085,LLFGYPVYV,1008073
+2510.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201230,ILSPFLPLL,1038348
+75300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9132,FLRGRAYGL,1018605
+70000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*05:01/DQB1*02:01,II,745,LQPFPQPQLPYPQ,1027562
+20000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),"H2-Kb Y22F, M23I, E24S, D30N mutant",I,9092,SQYDYNSL,1013982
+360.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22382,LLFGYPVYV,1031961
+27700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9113,NLVPMVATV,1016521
+80300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Db,I,1614,KAPFNFATM,1036784
+630.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*57:01,I,522,KAFSPEVIPMF,1025343
+13700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IEk,II,9102,ANERADLIAYLKQATK,1022198
+100000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),"HLA-B*35:08 Q65A, T69A, Q155A mutant",I,9114,FLRGRAYGL,1019722
+400000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8773,GTSGSPIVAR,1032274
+210000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28788,AAGIGILTV,1034243
+2200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,789,,1028023
+42000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LLFGYPVFV,1017753
+6300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*44:02,I,9158,EENLLDFVRF,1013516
+0.6,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,568,ELAGIGILTV,1026077
+1720.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201222,ILSPFLPLL,1038348
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9123,FLRGRAYGL,1018605
+58.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22432,LLFGYPVYV,1031961
+1000.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37270,ELAGIGILTI,1036012
+50000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*01:01,II,28368,PKYVKQNTLKLAT,1032401
+128000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201195,ILDQVPFSV,1038026
+16000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,59,LLFGFPVYV,1017753
+7600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1879,YLEPGPVTA,1029982
+39800.0,nM,dissociation constant KD,binding assay,H2-Db,I,8547,ASNENMETM,1030829
+240.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28848,KLVVLGINAV,1031442
+31.6,nM,dissociation constant KD,binding assay,HLA-A*02:01,I,58382,ELAGIGILTV,1036326
+44.7,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1029063
+140.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22454,LLFGYPVYV,1031961
+17000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*05:01/DQB1*02:01,II,29324,PFPQPQLPY,1034582
+5100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAg7,II,28052,HLVERLYLVCGEE,1032685
+3350.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,176,,1024674
+9300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201953,GGYRARPAKAAAT,1038600
+12850.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219349,NQKLIANAF,1042784
+48000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LGYGFVNYI,1021690
+28000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,8912,,1032453
+6490.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1799,LLFGFPVYV,1012973
+300000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*04:01,II,9098,FSWGAEGQRPGFG,1021504
+5600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,796,ELAGIGILTV,1028140
+4700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1071,NLVPMVATV,1031507
+8100.0,nM,dissociation constant KD,binding assay,HLA-DRB1*11:01,II,26688,DRFYKTLRAEQASQEV,1030841
+144100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1880,YLEAGPVTA,1029982
+1300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*44:02,I,58,EEYLKAWTF,1017865
+129000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,1797,FLRGRAFGL,1014251
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1041,GILEFVFTL,1030117
+10000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAg7,II,28056,HLVERLYLVCGGE,1032685
+10400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,65,,1029874
+9600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01 A69G mutant,I,9085,LLFGYPVYV,1008073
+278000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,428,ALWGPDPAAA,1022868
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,786,,1028023
+20390.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219350,NQKLIANQF,1042784
+6400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,8745,QLSPFPFDL,1026954
+2100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LLFGYPVYV,1017753
+134.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,175,,1016675
+517.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201229,ILSPFLPLL,1038348
+500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,785,,1028023
+12500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9114,FLRGRAYGL,1018605
+240.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28789,AAGIGILTV,1034243
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9223,FLRGRAYGL,1018605
+8.99,nM,dissociation constant KD,binding assay,HLA-A*02:01,I,58379,LLFGYPVYV,1036326
+300000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*15:01,II,158,DFARVHFISALHGSG,1014229
+47000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*15:01,II,158,ENPVVHFFKNIVTPR,1014229
+140000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9145,ALAGIGILTV,1026077
+5240.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,176,,1024674
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14898,GLCTLVAML,1021176
+1000.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,ELAGIAILTV,1036012
+609.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201220,ILSPFLPLL,1038348
+8600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Db,I,1614,KAVYNFATM,1036784
+1000.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,ELAGIGILTI,1036012
+3000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-E*01:03,non classical,8908,VMAPRTLVL,1032352
+18600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201951,GGYRARPAKAAAT,1038600
+17500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,8912,,1032453
+27400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,1749,NEKYAQAYPNVSAKID,1027290
+5600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,9263,,1027074
+6000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,9254,FEAQKAKANKAVD,1027863
+3100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22356,KVAELVHFL,1033655
+41500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*07:02,I,28355,APRGPHGGAASGL,1033026
+140600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,421,CLGGLLAMV,1022691
+7340.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IEk,II,9103,ANERADLIAYLKQATK,1022198
+2.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28848,KLVALGINAV,1031442
+8400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,8910,,1032453
+11100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9129,FLRGRAYGL,1018605
+360.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28848,QLTSLGLNAV,1031442
+289600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8773,GTSGAPIVNR,1032274
+60800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201953,GGYRARPAKAAAT,1038600
+35400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,785,,1028023
+1100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*27:05,I,61,KRWIIMGLNK,1025721
+5200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1795,GILGFVFTL,1007938
+17000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9108,ELAGIGILTV,1032128
+7350.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8772,GTSGSPIVNR,1032274
+31100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1879,YLEPGPATA,1029982
+24800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*05:01/DQB1*02:01,II,744,PFPQPQLPYPQPQ,1027562
+15200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9126,FLRGRAYGL,1018605
+26.45,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1026764
+50000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*27:05,I,213690,TRLALIAPK,1041763
+7700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,8745,QLSPFPFDL,1026954
+16830.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,29316,,1012877
+5300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,8910,,1032453
+33700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9161,FLRGRAYGL,1018605
+81800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*51:01,I,26671,TAFTIPSI,1027859
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14899,GLCTLVAML,1021176
+1350.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,59,LLFGYPVYV,1013533
+99600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,330,HPVGQADYFEY,1019752
+,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Db,I,26700,SQLLNAKYL,1032488
+6600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28792,KLVALGINAV,1031442
+41000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,568,ELAGIAILTV,1026077
+4800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,329,HPVAEADYFEY,1019752
+50500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9159,FLRGRAYGL,1018605
+7500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Db,I,26781,SQLLNAKYL,1032488
+17000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,297,ELAGIGILTV,1028461
+1740.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201224,ILSPFLPLL,1038348
+436.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201227,ILSPFLPLL,1038348
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14907,GLCTLVAML,1021176
+540.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22398,LLFGYPVYV,1031961
+0.04,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28791,KLVALGINAV,1031442
+5020.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAg7,II,309,AMKRHGLDNYRGYSLGN,1019680
+8.4,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28128,SLLMWITQC,1011725
+123600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,8912,,1032453
+300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*44:05,I,138,EENLLDFVRF,1013516
+31000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,568,ELAGIGALTV,1026077
+0.048,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,119,SLLMWITQC,1011525
+316000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01 K66A mutant,I,139,LLFGYPVYV,1013533
+83000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,8782,EQYKFYSV,1012894
+910.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9085,LLFGYPVYV,1008123
+7.1,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*01:01,I,1002,EVDPIGHLY,1029802
+6590.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9109,HSKKKCDEL,1028368
+12700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*01:01,II,28369,PKYVKQNTLKLAR,1032401
+17200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,29102,,1012877
+32000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28127,SLLMWITQC,1011725
+32000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28115,ELAGIGILTV,1032856
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,4230,GLCTLVAML,1021176
+26100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*01:01,II,28368,PKYVKQNTLKLAR,1032401
+3900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,8745,SPLDSLWWI,1026954
+6600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAu,II,69,RGGASQYRPSQ,1012895
+5100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,442,,1024777
+1000.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,ELAGIGLLTV,1036012
+21400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,37346,SLLMWITQC,1032289
+20000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQ1,II,9078,ENPVVHFFKNIVTPR,1021691
+110000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,221522,MMDFFNAQM,1032888
+3100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01 T163A mutant,I,9085,LLFGYPVYV,1008073
+36000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9145,ELAAIGILTV,1026077
+13900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,652,,1027074
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,789,,1028023
+101900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201945,GGYRARPAKAAAT,1038600
+22750.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9144,FLRGRAYVL,1014251
+10500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LLFGFPVFV,1017753
+1350.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1799,LLFGYPVYV,1012973
+5400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01 A150P mutant,I,139,MLWGYLQYV,1018721
+18000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,471,,1024968
+1900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9086,LLFGYPVYV,1026448
+8.3,nM,dissociation constant KD,binding assay,HLA-A*02:01,I,58379,LLFGYPVYV,1036326
+49000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*44:05,I,58,EEYLQAFTY,1017865
+4400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,447,,1024695
+291500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*24:02,I,669,RFPLTFGWCF,1026965
+170000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,802,AAGIGILTV,1028140
+100.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,EAAGIGILTV,1036012
+79400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*05:01/DQB1*02:01,II,743,PFPQPQLPYPQPQ,1027562
+93.5,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,174,,1016675
+2200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,673,ILAKFAHWL,1027013
+2480.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,833,HSKKKCDEL,1028368
+9400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*44:03,I,9158,EENLLDFVRF,1013516
+3400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201214,ILSPFLPLL,1038348
+11400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,202855,,1036267
+2230.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9085,LLFGYPVYV,1012973
+,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9085,LLFGYPVAV,1008123
+430.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,177,,1025141
+19700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1023,YLEAGPVTA,1029982
+8.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9090,LLFGYPVYV,1026448
+19400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9118,FLRGRAYGL,1018605
+140000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,568,ALAGIGILTV,1026077
+73200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1977,GILGFVFTL,1031507
+1800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9087,LLFGYPVYV,1026448
+14300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQ1,II,346,ENPVVHFFKNIVTPR,1021691
+5760.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,330,HPVGEADYFEY,1019752
+130000000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,9372,FEAQKAKANKAVD,1025031
+9500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,796,ELAGIGILTV,1028105
+2400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LLFGYPVYV,1012909
+34660.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,331,HPVGEADYFEY,1019752
+149000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9144,FLRGRAFGL,1014251
+220.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28789,ALGIGILTV,1034243
+6000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*04:01,II,9156,FSWGAEGQRPGFG,1021504
+43000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,796,AAGIGILTV,1028105
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14905,GLCTLVAML,1021176
+45.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28789,ELAGIGILTV,1034243
+76.7,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*01:01,I,1002,ESDPIVAQY,1029802
+60000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28848,ALRGMGVNAV,1031442
+370.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,8910,,1032453
+2.3,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22467,LLFGYPVYV,1031961
+150000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1964,GILGFVFTL,1031507
+0.1,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28139,SLLMWITQC,1011725
+2700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22353,KVAELVHFL,1033655
+0.6,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9145,ELAGIGILTV,1026077
+16000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*01:01,II,28369,PKYVKQNTLKLRT,1032401
+1000.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,ELAGIGIATV,1036012
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,784,,1028023
+4600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,9253,QLSPFPFDL,1013975
+69500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,783,,1029874
+8410.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,29100,,1012877
+11000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28847,QLRTLGLNAV,1031442
+31100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1023,YLEPGPATA,1029982
+9000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,36793,RVSYYGPKTSPVQ,1035273
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9221,FLRGRAYGL,1018605
+154000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*01:02/DQB1*05:02,II,894,DRLLMLFAKDVVSRN,1028957
+140.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,37352,SLLMWITQC,1032289
+56.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1029099
+124000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*01:02/DQB1*05:02,II,894,RQLVHFVRDFAQL,1028957
+38100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1023,YLEPGPVAA,1029982
+61400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9163,FLRGRAYGL,1018605
+1130.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,442,,1029063
+31800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01 K66A mutant,I,150,ALWGFFPVL,1013983
+39000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,9251,SIYRGYYL,1013975
+28.0,nM,dissociation constant KD,binding assay,H2-Kb,I,28120,SIYRYYGL,1010014
+0.9908,nM,dissociation constant KD,binding assay,HLA-DRB1*15:01,II,221706,RVLGLVLLRGENLVS,1043570
+179000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,330,HPVGDADYFEY,1019752
+5000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*04:01,II,342,FSWGAEGQRPGFG,1021504
+15300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9120,FLRGRAYGL,1018605
+26700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9165,FLRGRAYGL,1018605
+6000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DPB1*02:01,II,777,FWIDLFETIG,1027978
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14893,GLCTLVAML,1021176
+8810.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219433,NQKLIANAF,1042784
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,4224,GLCTLVAML,1021176
+1600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22357,KVAELVHFL,1033655
+3900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,9257,QLSPFPFDL,1020346
+49000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,205436,RLQSLQTYV,1040001
+197.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1029063
+31000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201195,IMDQVPFSV,1038026
+37500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Db,I,205404,ASNENMETM,1039163
+7600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1023,YLEPGPVTA,1029982
+37000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),"HLA-A*02:01 K66A, E63Q mutant",I,59,LLFGYPVYV,1013533
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,1797,FLRGRAYVL,1014251
+13000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28848,QLRTLGLNAV,1031442
+11300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9093,ALWGFFPVL,1020639
+24200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*05:01/DQB1*02:01,II,58327,PQQPFPQPQQPFP,1034238
+5700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,151,SLLMWITQV,1013985
+37400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-E*01:03,non classical,8908,VMAPRTLIL,1032352
+2400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,781,,1028023
+11.2,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1024898
+180.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28848,KLSGLGINAV,1031442
+32700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,421,ALGGLLTMV,1022691
+15800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,833,HSKKKCDEL,1028368
+81400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Db,I,9093,FAPGFFPYL,1020639
+718.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1024777
+16000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,652,,1026900
+6400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,297,EAAGIGILTV,1025104
+100.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37270,EAAGIGILTV,1036012
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14909,GLCTLVAML,1021176
+1100.0,nM,dissociation constant KD,binding assay,H2-Db,I,1614,KAPYNFATM,1036784
+100000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,8912,,1032453
+18700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,146,LPEPLPQGQLTAY,1028961
+25.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1026764
+110000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,221522,VLDLFQGQL,1032888
+15900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1879,ALEPGPVTA,1029982
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9164,FLRGRAYGL,1018605
+1000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28791,ALRGMGVNAV,1031442
+34900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9143,FLRGRAYGL,1018605
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,146,LPEPAPQGQLTAY,1028961
+6810.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,442,,1024777
+2700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,782,,1028023
+11470.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219447,NQKLIANQF,1042784
+4580.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*27:05,I,61,KRWIILGLNK,1025721
+4130.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Db,I,205403,ASNENMETM,1039163
+60200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9113,NLVPVVATV,1016521
+250000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQ1,II,9084,ENPVVHFFKNIVTPR,1021691
+2100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*03:01/DQB1*03:02,II,901,SGQGSFQPSQQNP,1029004
+1000000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1023,YLEPAPVTA,1029982
+,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IEk,II,1482,ADLIAYLKQATK,1027913
+81800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*51:01,I,9149,TAFTIPSI,1027859
+1700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,797,AAGIGILTV,1028105
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14908,GLCTLVAML,1021176
+9700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,8745,QLSPFPFDL,1026954
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14892,GLCTLVAML,1021176
+59000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22351,KVAELVHFL,1033655
+2460.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201225,ILSPFLPLL,1038348
+12850.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219349,NQKLIANQF,1042784
+31700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB3*03:01,II,9154,WIRVNIPKRI,1025226
+41000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9145,ELAGIAILTV,1026077
+9800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01 A150P mutant,I,139,LLFGYPVYV,1018721
+0.26,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28113,ELAGIGILTV,1032856
+4700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:05,II,201952,GGYRARPAKAAAT,1038600
+3500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAg7,II,28053,HLVERLYLVCGGE,1032685
+18000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,297,ELAGIGILTV,1019643
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,663,,1028023
+2.7,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28791,KLSGLGINAV,1031442
+81400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,783,,1029874
+49.3,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1026764
+550.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22374,KVAELVHFL,1033655
+700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22379,KVAELVHFL,1033655
+450000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*15:01,II,158,QRCRVHFLRNVLAQV,1014229
+500000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IEk,II,404,ANERADLIAYLKQATK,1022198
+48000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9085,LLYGFVNYI,1021690
+9700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,8745,QLSDVPMDL,1026954
+400000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8773,GTSGSPIIDK,1032274
+122.0,nM,dissociation constant KD,binding assay,HLA-A*02:01,I,28114,ELAGIGILTV,1032856
+8300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,673,ILAAFLHWL,1027013
+1520.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,177,,1025141
+0.98,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28138,SLLMWITQC,1011725
+28.7,nM,dissociation constant KD,binding assay,HLA-A*02:01,I,58382,ELAGIGILTV,1036326
+20950.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*02:01/DQB1*02:02,II,60977,PFSQQQQPVL,1036351
+1.0,nM,dissociation constant KD,binding assay,HLA-A*02:01,I,28118,ELAGIGILTV,1032856
+0.14,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28847,KLVALGINAV,1031442
+8960.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,177,,1025141
+3180.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,833,HSKKKCDEI,1028368
+400000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8771,GTSGSPIIDK,1032274
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9215,FLRGRAYGL,1018605
+29250.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,579,LPEPLPQGQLTAY,1026301
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,331,HPVGDADYFEY,1019752
+28000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,9139,FEAQKAKANKAVD,1027863
+150000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*05:01/DQB1*02:01,II,58359,PQQPFPQPQQPFP,1034238
+14300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*01:02/DQB1*05:02,II,346,ENPVVHFFKNIVTPR,1028957
+37000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9145,ELAGIGILAV,1026077
+250000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,9254,FEAFMARAKAAVD,1027863
+620.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,580,,1026303
+12100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9222,FLRGRAYGL,1018605
+750.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22373,KVAELVHFL,1033655
+52150.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*07:02,I,28354,APRGPHGGAASGL,1033026
+1000.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,ELAGIGILSV,1036012
+5000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,9256,FEAQKAKANKAVD,1027863
+910.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,37349,SLLMWITQC,1032289
+1550.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201218,ILSPFLPLL,1038348
+6000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,495,FEAQKAKANKAVD,1025031
+1790.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1041,GILGFVFTL,1030117
+47000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*04:01,II,28368,PKYVKQNTLKLAT,1032401
+2690.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,37347,SLLMWITQC,1032289
+55000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,36794,RVSYYGPKTSPVQ,1035273
+3600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,9092,INFDFNTI,1013982
+32000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28788,ELAGIGILTV,1034243
+1800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1975,GILGFVFTL,1031507
+4700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01 T163A mutant,I,150,ALWGFFPVL,1013983
+10.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37270,DLAGIGILTV,1036012
+47800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,9241,,1029874
+1520.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,582,,1026303
+3200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1967,GILGFVFTL,1031507
+0.026,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28142,SLLMWITQC,1011725
+247.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1029063
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Db,I,26699,SQLLNAKYL,1032488
+73000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9085,LLYGFVNYV,1021690
+155.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1024898
+39.6,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1024598
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9119,FLRGRAYGL,1018605
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1041,GILGLVFTL,1030117
+6590.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,833,HSRKKCDEL,1028368
+25400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAu,II,131,RGGASQYRPSQ,1012895
+26500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1880,YLEPGPVTA,1029982
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14900,GLCTLVAML,1021176
+27800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Db,I,26780,SQLLNAKYL,1032488
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,787,,1028023
+30800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQ1,II,9079,ENPVVHFFKNIVTPR,1021691
+110.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22399,LLFGYPVYV,1031961
+12500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201943,GGYRARPAKAAAT,1038600
+1800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28293,LLFGYPVYV,1011725
+20900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,146,LPEPLPQGALTAY,1028961
+410.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28791,QLRTLGLNAV,1031442
+22100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,9257,SIYRGYYL,1013975
+40000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,36796,SPSKAGTKSPAVSPSK,1035273
+189000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,329,HPVGDADYFEY,1019752
+340.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22455,LLFGYPVYV,1031961
+11000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,36792,RVSYYGPKTSPVQ,1035273
+81300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201945,GGYRARPAKAAAT,1038600
+8500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201952,GGYRARPAKAAAT,1038600
+18450.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,1797,YLRGRAYGL,1014251
+640.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28847,QLSSLGLNAV,1031442
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9144,YLRGRAYGL,1014251
+6800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*04:01,II,9097,FSWGAEGQRPGFG,1021504
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,146,LPEPLPAGQLTAY,1028961
+140.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22433,LLFGYPVYV,1031961
+50000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,205437,RLQSLQTYV,1040001
+42700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9113,NLVPMVASV,1016521
+1500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22358,KVAELVHFL,1033655
+37500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*24:02,I,668,RYPLTFGWCF,1026965
+149000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,8782,LSPFPFDL,1012894
+9400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*44:03,I,138,EENLLDFVRF,1013516
+37.1,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1029063
+22000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*04:01,II,28368,PKYVKQNTLKLAR,1032401
+4200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,788,,1028023
+110000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQ1,II,9080,ENPVVHFFKNIVTPR,1021691
+20830.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,29100,,1012877
+3000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,9241,,1029874
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14894,GLCTLVAML,1021176
+9100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,786,,1028023
+27100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,9112,LPEPLPQGQLTAY,1026301
+5100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,297,FLTGIGIITV,1025104
+204.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201215,ILSPFLPLL,1038348
+400000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8773,GTSGSPIVNR,1032274
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,781,,1028023
+420.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28297,LLFGYPVYV,1011725
+4000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01 E166A mutant,I,9085,LLFGYPVYV,1008073
+1600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*24:02,I,670,RFPLTFGWCF,1026965
+,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IEk,II,404,ADLIAYLKQATK,1027913
+15800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQ1,II,9076,ENPVVHFFKNIVTPR,1021691
+15000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9230,SLLMWITQC,1013981
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9218,FLRGRAYGL,1018605
+48700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*24:02,I,670,RYPLTFGWCF,1026965
+654900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201946,GGYRARPAKAAAT,1038600
+400000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8771,GTSGAPIVNR,1032274
+1100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*27:05,I,9153,KRWIIMGLNK,1025721
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9144,TLRGRAYGL,1014251
+39.9,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1025017
+2.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37270,ELAGIGILTV,1036012
+3000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*57:03,I,522,KAFSPEVIPMF,1025343
+4900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),cattle MR1,non classical,665,,1026963
+254.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28137,SLLMWITQC,1011725
+29300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,1797,TLRGRAYGL,1014251
+6900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01 W167A mutant,I,9085,LLFGYPVYV,1008073
+8200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,8745,QLSPFPFDL,1026954
+7160.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219447,NQKLIANQF,1042784
+44500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9115,FLRGRAYGL,1018605
+1600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22359,KVAELVHFL,1033655
+31000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9145,ELAGIGALTV,1026077
+15800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*05:01/DQB1*02:01,II,742,PFPQPQLPYPQPQ,1027562
+69200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9113,NLVGMVATV,1016521
+38000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*05:01/DQB1*02:01,II,29324,PQPQLPYPQ,1034582
+2600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,9092,INFDFNTI,1013987
+5100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9151,NLVPMVATV,1029636
+140000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LGYGFVNYI,1021690
+28800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,421,CLGGLLTMV,1022691
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,4228,GLCTLVAML,1021176
+390.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201221,SIVSPFIPLL,1038348
+390.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28847,QLTSLGLNAV,1031442
+15900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1023,ALEPGPVTA,1029982
+48000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,8745,QLSPFPFDL,1026954
+14300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQ1,II,9081,ENPVVHFFKNIVTPR,1021691
+1000.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,EIAGIGILTV,1036012
+1100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22385,LLFGYPVYV,1031961
+52250.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,146,LPEPLPQGQLTAY,1026301
+106.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28295,LLFGYPVYV,1011725
+11820.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,29102,,1012877
+31700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB3*03:01,II,515,WIRVNIPKRI,1025226
+321.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IEk,II,404,ANERADLIAYLKQATK,1022198
+30200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-E*01:03,non classical,57,VMAPRTLIL,1004539
+29000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,802,ELAGIGILTV,1028140
+0.1,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28140,SLLMWITQC,1011725
+11700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9225,FLRGRAYGL,1018605
+48000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,8745,FLSPFWFDI,1026954
+6850.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,442,,1029063
+131500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,9095,HPVAEADYFEY,1027926
+7160.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219447,NQKLIANAF,1042784
+110000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,221522,KMDYFSGQL,1032888
+7670.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9122,FLRGRAYGL,1018605
+4700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9152,NLVPMVATV,1029636
+2600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,9092,INFDFNTI,1010181
+38300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB3*03:01,II,515,HIRCNIPKRI,1025226
+15800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9109,HSKKKCDEL,1028368
+1800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LLFGYPVYV,1018721
+121000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1880,YLEPGPVAA,1029982
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,788,,1028023
+108000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQ1,II,9077,ENPVVHFFKNIVTPR,1021691
+15070.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,1797,FLRGRAYGL,1014251
+2.5,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28294,LLFGYPVYV,1011725
+31000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),cattle MR1,non classical,663,,1027009
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8772,GTSGSPIIDK,1032274
+700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,783,,1029874
+2.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,ELAGIGILTV,1036012
+156400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201946,GGYRARPAKAAAT,1038600
+83500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,421,CLAGLLTMV,1022691
+1200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,59,LLFGYPVYV,1017753
+31000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,420,FLRGRAYGL,1022665
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14902,GLCTLVAML,1021176
+180500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,9095,HPVGQADYFEY,1027926
+10.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28791,QLTSLGLNAV,1031442
+670000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*15:01,II,158,QRCRVHFMRNLYTAV,1014229
+1260.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201232,ILSPFLPLL,1038348
+11600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAu,II,31779,RGYGGRASDYKSAH,1024932
+300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*44:05,I,9158,EENLLDFVRF,1013516
+13400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201952,GGYRARPAKAAAT,1038600
+9.4,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9088,LLFGYPVYV,1026448
+10.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37270,ALAGIGILTV,1036012
+59700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Db,I,26702,SQLLNAKYL,1032488
+9480.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219433,NQKLIANAF,1042784
+8810.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219433,NQKLIANQF,1042784
+850.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,583,,1026303
+142500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8771,GTSGSPIINR,1032274
+45400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9217,FLRGRAYGL,1018605
+82400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9125,FLRGRAYGL,1018605
+33.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,9251,QLSPFPFDL,1013975
+180.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28137,SLLMWITQC,1011725
+38000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*01:01,II,28368,PKYVKQNTLKLRT,1032401
+3000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,297,FATGIGIITV,1025104
+119000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,146,LPEALPQGQLTAY,1028961
+25000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*04:01,II,28368,PKYVKQNTLKLRT,1032401
+20200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IEk,II,9106,ANERADLIAYLRQATK,1022198
+460.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22451,LLFGYPVYV,1031961
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,4225,GLCTLVAML,1021176
+6210.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219432,NQKLIANAF,1042784
+133000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*37:01,I,28915,FEDLRVLSF,1034276
+8970.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219349,NQKLIANQF,1042784
+114000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,9092,RGYVYQGL,1010181
+,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9085,LLFGYAVYV,1008123
+2200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,329,HPVGEADYFEY,1019752
+23.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28791,QLSSLGLNAV,1031442
+6020.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9127,FLRGRAYGL,1018605
+112000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),"H2-Kb Y22F, M23I, E24S, D30N mutant",I,9092,SQYYYNSL,1013982
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14897,GLCTLVAML,1021176
+730.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28778,SLLMWITQC,1012513
+1460.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201231,ILSPFLPLL,1038348
+112000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),"H2-Kb Y22F, M23I, E24S, D30N mutant",I,148,SQYYYNSL,1013982
+20480.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,29316,,1012877
+13000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,9372,FKAQKAKANKAVD,1025031
+10700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),"HLA-A*02:01 K66A, E63Q mutant",I,139,LLFGYPVYV,1013533
+22300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201950,GGYRARPAKAAAT,1038600
+49000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAg7,II,28051,HLVERLYLVCGEE,1032685
+4580.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*27:05,I,9153,KRWIILGLNK,1025721
+54.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28847,KLSGLGINAV,1031442
+3600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,178,,1024797
+27700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,421,CLGALLTMV,1022691
+6400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,297,EAAGIGILTV,1028461
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9117,FLRGRAYGL,1018605
+3300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,9257,LSPFPFDL,1020346
+2580.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201219,ILSPFLPLL,1038348
+14400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1972,GILGFVFTL,1031507
+7200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9085,LLFGYPRYV,1008123
+39800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,202855,,1036267
+1400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22363,KVAELVHFL,1033655
+3400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,205435,RLQSLQTYV,1040001
+110000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,221522,LMDYWQGQL,1032888
+100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22453,LLFGYPVYV,1031961
+4.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22464,LLFGYPVYV,1031961
+8970.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219349,NQKLIANAF,1042784
+260.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22456,LLFGYPVYV,1031961
+25400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,9095,HPVGDADYFEY,1027926
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14901,GLCTLVAML,1021176
+4.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,140,LLFGYPVYV,1026448
+24000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22368,KVAELVHFL,1033655
+3180.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9109,HSKKKCDEI,1028368
+1090.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201233,ILSPFLPLL,1038348
+3400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,442,,1029063
+6300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*44:02,I,138,EENLLDFVRF,1013516
+240.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22457,LLFGYPVYV,1031961
+155700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201951,GGYRARPAKAAAT,1038600
+6240.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219432,NQKLIANAF,1042784
+100.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37270,ELAAIGILTV,1036012
+9850.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,9111,LPEPLPQGQLTAY,1008008
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9128,FLRGRAYGL,1018605
+79400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8772,GTSGSPIVAR,1032274
+0.2,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28141,SLLMWITQC,1011725
+220000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*15:01,II,158,ALAVLHFYPDKGAKN,1014229
+2100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LLFGYPVYV,1031961
+1100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28848,QLSSLGLNAV,1031442
+1260.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201216,ILSPFLPLL,1038348
+22000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,9255,FEAFMARAKAAVD,1027863
+50000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08 Q155A mutant,I,9111,LPEPLPQGQLTAY,1019722
+24.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,797,ELAGIGILTV,1028105
+29400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),"H2-Kb D77S, K89A mutant",I,9257,SIYRYYGL,1020346
+0.1,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28143,SLLMWITQC,1011725
+9470.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,29101,,1012877
+79000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201195,ILDQVPFSV,1038026
+24500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,471,,1024968
+3180.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,833,HSKKKCDEL,1028368
+9300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,150,ALWGFFPVL,1013983
+25000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LLFGFAVYV,1017753
+6400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9108,EAAGIGILTV,1032128
+15.2,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28112,ELAGIGILTV,1032856
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,338,GLCTLVAML,1021176
+890.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22452,LLFGYPVYV,1031961
+1300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22352,KVAELVHFL,1033655
+26700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*01:01,II,28369,PKYVKQNTLKLAT,1032401
+191000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1966,GILGFVFTL,1031507
+1450.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,442,,1029063
+23000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,205435,RLQSLQTYV,1040001
+82000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*27:05,I,213690,GQMWLLAPR,1041763
+6590.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9109,HSRKKCDEL,1028368
+100.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37270,EIAGIGILTV,1036012
+6570.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,28121,EQYKFYSV,1010014
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9216,FLRGRAYGL,1018605
+116.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,144,QLSPFPFDL,1013975
+12150.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,146,LPEPLPQGQLTAY,1026301
+18000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,297,ELAGIGILTV,1026077
+20800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9133,FLRGRAYGL,1018605
+640.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LLFGFPVYV,1017753
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14903,GLCTLVAML,1021176
+100.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,ELAGIGILTA,1036012
+538.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201217,ILSPFLPLL,1038348
+1000.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,DLAGIGILTV,1036012
+57500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9113,NLVPQVATV,1016521
+15400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01 W167A mutant,I,150,ALWGFFPVL,1013983
+8.6,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28847,KLKSLGLNAV,1031442
+37.1,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1026764
+3200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LLFGYPVYV,1026448
+48700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9162,FLRGRAYGL,1018605
+3.1,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22463,LLFGYPVYV,1031961
+100.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,ELAGIGIITV,1036012
+2170.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201214,SIVSPFIPLL,1038348
+26000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,297,ELAGIGILTV,1027013
+35230.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,9111,LPEPLPQGQLTAY,1008008
+1000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28791,QLRSLGLNAV,1031442
+4500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),cattle MR1,non classical,663,,1026963
+520.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22378,KVAELVHFL,1033655
+10400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9114,FLRGRAYGL,1019722
+1100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28776,SLLMWITQC,1012513
+84000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9107,AQWGPDPAAA,1032128
+73000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LGYGFVNYI,1021690
+1500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22368,KVAELVHFL,1033655
+25000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,579,LPEPLPQGQLTAY,1026301
+102000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1880,YLEPGPATA,1029982
+2.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,673,ILAKFLHWL,1027013
+0.78,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28791,KLKSLGLNAV,1031442
+9800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1983,NLVPMVATV,1031507
+900.0,nM,dissociation constant KD,binding assay,HLA-A*02:01,I,139,LLFGFPVYV,1025029
+17000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,59,LLFGFPVYV,1017753
+29250.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,9110,LPEPLPQGQLTAY,1026301
+6900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1b,non classical,58348,,1035972
+16800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,652,,1027074
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14904,GLCTLVAML,1021176
+28000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28847,QLRSLGLNAV,1031442
+235.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201228,ILSPFLPLL,1038348
+15800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,833,HSKRKCDEL,1028368
+29.4,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,174,,1016675
+20390.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219350,NQKLIANAF,1042784
+0.391,nM,dissociation constant KD,binding assay,HLA-DRB1*15:01,II,221707,RVLGLVLLRGENLVS,1043570
+830.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,177,,1025141
+5.3,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22384,LLFGYPVYV,1031961
+100000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DR2,II,9075,ENPVVHFFKNIVTPR,1021691
+,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*05:01/DQB1*02:01,II,29325,PQPQLPYPQ,1034582
+37500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*24:02,I,9148,RYPLTFGWCF,1026965
+40000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,796,AAGIGILTV,1028140
+21000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,28848,QLRSLGLNAV,1031442
+162.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAg7,II,309,AMKRHGLDNYRGYSLGN,1019680
+2.6,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22462,LLFGYPVYV,1031961
+11400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1879,YLEPGAVTA,1029982
+50000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,205437,RLQSLQIYV,1040001
+100000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAg7,II,28052,HLVERLYLVCGGE,1032685
+2600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,149,INFDFNTI,1013987
+9750.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8772,GTSGSPIINR,1032274
+21100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*24:02,I,9148,RFPLTFGWCF,1026965
+59000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Db,I,26701,SQLLNAKYL,1032488
+2480.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9109,HSKKKCDEL,1028368
+5100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1979,NLVPMVATV,1031507
+81800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*51:01,I,754,TAFTIPSI,1027859
+60600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1880,ALEPGPVTA,1029982
+20500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9116,FLRGRAYGL,1018605
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9130,FLRGRAYGL,1018605
+51400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201943,GGYRARPAKAAAT,1038600
+26000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*02:01/DQB1*02:02,II,60976,PFSQQQQPVL,1036351
+1300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22355,KVAELVHFL,1033655
+27000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),"HLA-B*35:08 Q65A, T69A, Q155A mutant",I,146,LPEPLPQGQLTAY,1019722
+38300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB3*03:01,II,9154,HIRCNIPKRI,1025226
+910.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,177,,1016675
+62000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201195,ITDQVPFSV,1038026
+19000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Db,I,19871,SQLLNAKYL,1032488
+100000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*04:01,II,9099,FSWGAEGQRPGFG,1021504
+160000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LLFGKPVYV,1012909
+,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IEk,II,406,ADLIAYLKQATK,1027913
+49800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9121,FLRGRAYGL,1018605
+9700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,205437,RLQSLQTYV,1040001
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*44:03,I,58,EEYLKAWTF,1017865
+4.4,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9089,LLFGYPVYV,1026448
+21000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,568,ELAGIGIATV,1026077
+1600.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,9257,QLSPFPFDL,1013975
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9219,FLRGRAYGL,1018605
+25000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,9110,LPEPLPQGQLTAY,1026301
+27700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,60,NLVPMVATV,1016521
+28300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,1800,NEKYAQAYPNVSAKID,1027290
+12000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,330,HPVAEADYFEY,1019752
+6300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1879,YLEPGPVTV,1029982
+104900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201944,GGYRARPAKAAAT,1038600
+25300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAu,II,132,RGGASQYRPSQ,1012895
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,331,HPVGQADYFEY,1019752
+5980.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,471,,1025439
+51.9,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,442,,1024858
+100.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,ALAGIGILTV,1036012
+100.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,ELAGIGILAV,1036012
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,4227,GLCTLVAML,1021176
+1650.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,663,,1027543
+38000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*05:01/DQB1*02:01,II,29325,PQPQLPYPQ,1034582
+2230.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,LLFGYPVYV,1013533
+100.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37270,ELAGIGILTA,1036012
+19400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9160,FLRGRAYGL,1018605
+740.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,177,,1025141
+8200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),cattle MR1,non classical,664,,1026963
+11200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,146,LPEPLPQGQLTAY,1019722
+27700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:05,II,201953,GGYRARPAKAAAT,1038600
+399000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,8745,QLSPFPFDL,1026954
+14800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9224,FLRGRAYGL,1018605
+64800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*24:02,I,669,RYPLTLGWCF,1026965
+21900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1880,YLEPGPVTV,1029982
+81.6,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,121,SLLMWITQC,1011525
+14000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,9372,FEAQKAKANKAVD,1025031
+19700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1879,YLEAGPVTA,1029982
+3400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,8745,QLSPFPFDL,1026954
+13700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IEk,II,405,ANERADLIAYLKQATK,1022198
+1700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22362,KVAELVHFL,1033655
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,4226,GLCTLVAML,1021176
+9700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRB1*04:01,II,201950,GGYRARPAKAAAT,1038600
+14000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,297,AAGIGILTV,1025104
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14895,GLCTLVAML,1021176
+2.8,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,140,LLFGYPVYV,1031961
+,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*05:01/DQB1*02:01,II,29324,PFPQPQLPY,1034582
+375800.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8771,GTSGSPIVAR,1032274
+5000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DRA*01:01/DRB1*04:01,II,9100,FSWGAEGQRPGFG,1021504
+13300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,151,SLLMWITQC,1013985
+870.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22376,KVAELVHFL,1033655
+790.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,28122,SIYRYYGL,1010014
+100000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,9263,,1027074
+74500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:01,I,331,HPVAEADYFEY,1019752
+1100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22364,KVAELVHFL,1033655
+13200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9131,FLRGRAYGL,1018605
+151.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201226,ILSPFLPLL,1038348
+9480.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*15:01,I,219433,NQKLIANQF,1042784
+28000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1981,NLVPMVATV,1031507
+38000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQ1,II,9082,ENPVVHFFKNIVTPR,1021691
+44500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*35:08,I,146,LPEPLPQGQATAY,1028961
+200000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*44:03,I,58,EEYLQAFTY,1017865
+54000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,8782,SIYRYYGL,1012894
+4840.0,nM,dissociation constant KD,surface plasmon resonance (SPR),mouse CD1d,non classical,176,,1024674
+17000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,297,ELAGIGILTV,1025104
+66.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,62,,1028458
+7.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,9253,SIYRGYYL,1013975
+4200.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,784,,1028023
+219.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,177,,1016675
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,14906,GLCTLVAML,1021176
+5100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Ld,I,8745,QLSPFPFDL,1026954
+41000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,139,MLWGYLQYV,1018721
+370.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22397,LLFGYPVYV,1031961
+2500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,588,,1026372
+1000.0,nM,dissociation constant KD,binding assay,HLA-A2,I,37269,ELAAIGILTV,1036012
+13000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-IAb,II,133,FEAQKAKANKAVD,1025031
+910.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,9085,LLFGYPVYV,1008073
+9700.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*24:02,I,669,RYPLTFGWCF,1026965
+6300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1023,YLEPGPVTV,1029982
+2100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-DQA1*03:01/DQB1*03:02,II,9150,SGQGSFQPSQQNP,1029004
+3420.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human CD1d,non classical,175,,1016675
+2.3,nM,dissociation constant KD,binding assay,HLA-A*02:01,I,28117,ELAGIGILTV,1032856
+2420.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,201223,ILSPFLPLL,1038348
+38100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1879,YLEPGPVAA,1029982
+1400.0,nM,dissociation constant KD,surface plasmon resonance (SPR),human MR1,non classical,787,,1028023
+8100.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,4229,GLCTLVAML,1021176
+136000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*11:01,I,8771,GTSGSPIVNR,1032274
+600000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,1041,GIWGFVFTL,1030117
+56500.0,nM,dissociation constant KD,surface plasmon resonance (SPR),"H2-Kb D77S, K89A mutant",I,9257,EQYKFYSV,1020346
+138000.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B8,I,58,FLRGRFYGL,1004580
+31900.0,nM,dissociation constant KD,surface plasmon resonance (SPR),H2-Kb,I,9257,SIYRYYGL,1020346
+1910.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,37348,SLLMWITQC,1032289
+8890.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-B*08:01,I,9144,FLRGRAYGL,1014251
+9300.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,151,SLLMWITQC,1012513
+930.0,nM,dissociation constant KD,surface plasmon resonance (SPR),HLA-A*02:01,I,22365,KVAELVHFL,1033655

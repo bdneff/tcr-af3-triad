@@ -1,0 +1,11 @@
+pdb_id,release_date,pre_af3_cutoff,method,resolution,polymer_entity_count,title
+8pjg,2024-06-19,False,X-RAY DIFFRACTION,1.83,5,F11 TCR in complex with Human Leukocyte Antigen class II allotype DR1 presenting P11T->R modified influenza A virus haemagglutinin (HA)306-318 PKYVKQNTLKLAR
+8vcx,2024-08-07,False,X-RAY DIFFRACTION,2.59,5,Human TCR A2.13 in complex with DQ8-InsCpep
+8vcy,2024-08-07,False,X-RAY DIFFRACTION,2.60,5,Human TCR A2.13 in complex with DQ8-InsC8-15NPY
+8vd0,2024-08-07,False,X-RAY DIFFRACTION,2.40,4,Human TCR ET650-4 in complex with DQ8-InsC8-15-IAPP2
+8vd2,2024-08-07,False,X-RAY DIFFRACTION,2.90,5,Human TCR ET650-4 in complex with DQ8-InsC8-15-IAPP1
+8vq8,2025-01-29,False,X-RAY DIFFRACTION,2.01,4,Immune receptor complex
+9aud,2025-02-05,False,X-RAY DIFFRACTION,2.90,4,Immune receptor complex
+9yaf,2026-08-19,False,X-RAY DIFFRACTION,3.25,5,TCR-HLA-DQ2.5-glia-a1a complex
+9yag,2026-08-19,False,X-RAY DIFFRACTION,3.20,5,TCR-HLA-DQ2.5-glia-w1 complex
+27eb,2026-08-26,False,X-RAY DIFFRACTION,3.25,5,TCR-HLA-DQ2.5-glia-w2 complex
